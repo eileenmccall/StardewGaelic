@@ -1,0 +1,2873 @@
+{
+    // TODO
+    "AncientFruitPot": "Her roots grow very deep... she wouldn't be happy in there.",
+    // TODO
+    "CactusSeedsOutside": "Must be planted indoors or on Ginger Island.",
+    // TODO
+    "CaskNoCellar": "Only works in Cellar.",
+    // TODO
+    "DarkTalisman": "Dark Talisman",
+    // TODO
+    "MagicInk": "Magic Ink",
+    // TODO
+    "MagnifyingGlass": "Magnifying Glass",
+    // TODO
+    "BearPaw": "Bear's Knowledge",
+    // TODO
+    "SpringOnionBugs": "Spring Onion Mastery",
+    // TODO
+    "SpecialCharm": "Special Charm",
+    // TODO
+    "CatalogueDescription": "Provides unlimited access to all wallpapers and floors... from the convenience of your home!",
+    // TODO
+    "FurnitureCatalogueDescription": "Provides unlimited access to almost every furniture item... from the convenience of your home!",
+    // TODO
+    "DarkTalismanDescription": "You've found the {0}! It's covered in bug slime...",
+    // TODO
+    "MagicInkDescription": "You've found the Wizard's lost {0}! Better return it to him.",
+    // TODO
+    "MagnifyingGlassDescription": "You received the {0}! You now have the ability to find 'Secret Notes'. These notes reveal rare and useful information, and can be reviewed in your collections tab.",
+    // TODO
+    "SpecialCharmDescription": "You received the {0}! You feel an aura of good fortune surrounding you (luck is permanently increased)!",
+    // TODO
+    "ParsnipSeedPackage_SomeoneElse": "This package belongs to someone else.",
+    // TODO
+    "CraftingRecipe_IronBar": "Transmute (Fe)",
+    // TODO
+    "CraftingRecipe_GoldBar": "Transmute (Au)",
+    // TODO
+    "CraftingRecipe_SpringSeeds": "Wild Seeds (Sp)",
+    // TODO
+    "CraftingRecipe_SummerSeeds": "Wild Seeds (Su)",
+    // TODO
+    "CraftingRecipe_FallSeeds": "Wild Seeds (Fa)",
+    // TODO
+    "CraftingRecipe_WinterSeeds": "Wild Seeds (Wi)",
+    // TODO
+    "Acorn_Name": "Acorn",
+    // TODO
+    "Acorn_Description": "This can be planted to grow an oak tree.",
+    // TODO
+    "AdvancedTVRemote_Name": "Advanced TV Remote",
+    // TODO
+    "AdvancedTVRemote_Description": "It has more buttons than a regular remote. Perfect for the avid TV watcher!",
+    // TODO
+    "Aerinite_Name": "Aerinite",
+    // TODO
+    "Aerinite_Description": "These crystals are curiously light.",
+    // TODO
+    "AgedRoe_Name": "Aged Roe",
+    // TODO
+    "AgedRoe_Description": "Fish eggs aged in salt to bring out the flavor.",
+    // TODO
+    "Alamite_Name": "Alamite",
+    // TODO
+    "Alamite_Description": "Its distinctive fluorescence makes it a favorite among rock collectors.",
+    // TODO
+    "Albacore_Name": "Albacore",
+    // TODO
+    "Albacore_Description": "Prefers temperature \"edges\" where cool and warm water meet.",
+    // TODO
+    "AlgaeSoup_Name": "Algae Soup",
+    // TODO
+    "AlgaeSoup_Description": "It's a little slimy.",
+    // TODO
+    "Amaranth_Name": "Amaranth",
+    // TODO
+    "Amaranth_Description": "A purple grain cultivated by an ancient civilization.",
+    // TODO
+    "AmaranthSeeds_Name": "Amaranth Seeds",
+    // TODO
+    "AmaranthSeeds_Description": "Plant these in the fall. Takes 7 days to grow. Harvest with the scythe.",
+    // TODO
+    "Amethyst_Name": "Amethyst",
+    // TODO
+    "Amethyst_Description": "A purple variant of quartz.",
+    // TODO
+    "AmethystRing_Name": "Amethyst Ring",
+    // TODO
+    "AmethystRing_Description": "Increases knockback by 10%.",
+    // TODO
+    "AmethystStone_Name": "Amethyst Stone",
+    // TODO
+    "AmethystStone_Description": "Break apart to obtain amethysts.",
+    // TODO
+    "AmphibianFossil_Name": "Amphibian Fossil",
+    // TODO
+    "AmphibianFossil_Description": "The relatively short hind legs suggest some kind of primordial toad.",
+    // TODO
+    "Anchor_Name": "Anchor",
+    // TODO
+    "Anchor_Description": "It may have belonged to ancient pirates.",
+    // TODO
+    "Anchovy_Name": "Anchovy",
+    // TODO
+    "Anchovy_Description": "A small silver fish found in the ocean.",
+    // TODO
+    "AncientDoll_Name": "Ancient Doll",
+    // TODO
+    "AncientDoll_Description": "An ancient doll covered in grime. This doll may have been used as a toy, a decoration, or a prop in some kind of ritual.",
+    // TODO
+    "AncientDrum_Name": "Ancient Drum",
+    // TODO
+    "AncientDrum_Description": "It's a drum made from wood and animal skin. It has a low, reverberating tone.",
+    // TODO
+    "AncientFruit_Name": "Ancient Fruit",
+    // TODO
+    "AncientFruit_Description": "It's been dormant for eons.",
+    // TODO
+    "AncientSeed_Name": "Ancient Seed",
+    // TODO
+    "AncientSeed_Description": "It's a dry old seed from some ancient plant. By all appearances it's long since dead...",
+    // TODO
+    "AncientSeeds_Name": "Ancient Seeds",
+    // TODO
+    "AncientSeeds_Description": "Could these still grow?",
+    // TODO
+    "AncientSword_Name": "Ancient Sword",
+    // TODO
+    "AncientSword_Description": "It's the remains of an ancient sword. Most of the blade has turned to rust, but the hilt is very finely crafted.",
+    // TODO
+    "Angler_Name": "Angler",
+    // TODO
+    "Angler_Description": "Uses a bioluminescent dangler to attract prey.",
+    "Apple_Name": "Ubhal",
+    // TODO
+    "Apple_Description": "A crisp fruit used for juice and cider.",
+    // TODO
+    "AppleSapling_Name": "Apple Sapling",
+    // TODO
+    "AppleSapling_Description": "Takes 28 days to produce a mature Apple tree. Bears fruit in the fall. Only grows if the 8 surrounding \"tiles\" are empty.",
+    "Apricot_Name": "Apracot",
+    // TODO
+    "Apricot_Description": "A tender little fruit with a rock-hard pit.",
+    // TODO
+    "ApricotSapling_Name": "Apricot Sapling",
+    // TODO
+    "ApricotSapling_Description": "Takes 28 days to produce a mature Apricot tree. Bears fruit in the spring. Only grows if the 8 surrounding \"tiles\" are empty.",
+    // TODO
+    "Aquamarine_Name": "Aquamarine",
+    // TODO
+    "Aquamarine_Description": "A shimmery blue-green gem.",
+    // TODO
+    "AquamarineRing_Name": "Aquamarine Ring",
+    // TODO
+    "AquamarineRing_Description": "Increases critical strike chance by 10%.",
+    // TODO
+    "AquamarineStone_Name": "Aquamarine Stone",
+    // TODO
+    "AquamarineStone_Description": "Break apart to obtain aquamarines.",
+    // TODO
+    "ArcticShard_Name": "Arctic Shard",
+    // TODO
+    "ArcticShard_Description": "This shard glows with an otherworldly blue light.",
+    // TODO
+    "Arrowhead_Name": "Arrowhead",
+    // TODO
+    "Arrowhead_Description": "A crudely fashioned point used for hunting.",
+    // TODO
+    "Artichoke_Name": "Artichoke",
+    // TODO
+    "Artichoke_Description": "The bud of a thistle plant. The spiny outer leaves conceal a fleshy, filling interior.",
+    // TODO
+    "ArtichokeDip_Name": "Artichoke Dip",
+    // TODO
+    "ArtichokeDip_Description": "It's cool and refreshing.",
+    // TODO
+    "ArtichokeSeeds_Name": "Artichoke Seeds",
+    // TODO
+    "ArtichokeSeeds_Description": "Plant these in the fall. Takes 8 days to mature.",
+    // TODO
+    "ArtifactSpot_Name": "Artifact Spot",
+    // TODO
+    "ArtifactSpot_Description": "How did you get this in your inventory?",
+    // TODO
+    "ArtifactTrove_Name": "Artifact Trove",
+    // TODO
+    "ArtifactTrove_Description": "A blacksmith can open this for you. These troves often contain ancient relics and curiosities.",
+    // TODO
+    "AutumnsBounty_Name": "Autumn's Bounty",
+    // TODO
+    "AutumnsBounty_Description": "A taste of the season.",
+    // TODO
+    "Bait_Name": "Bait",
+    // TODO
+    "Bait_Description": "Causes fish to bite faster. Must first be attached to a fishing rod.",
+    // TODO
+    "BakedFish_Name": "Baked Fish",
+    // TODO
+    "BakedFish_Description": "Baked fish on a bed of herbs.",
+    // TODO
+    "Banana_Name": "Banana",
+    // TODO
+    "Banana_Description": "A sweet, starchy tropical fruit.",
+    // TODO
+    "BananaPudding_Name": "Banana Pudding",
+    // TODO
+    "BananaPudding_Description": "A creamy dessert with a wonderful tropical flavor.",
+    // TODO
+    "BananaSapling_Name": "Banana Sapling",
+    // TODO
+    "BananaSapling_Description": "Takes 28 days to produce a mature Banana tree. Bears fruit in the summer, or all year round when planted on Ginger Island.",
+    // TODO
+    "BarbedHook_Name": "Barbed Hook",
+    // TODO
+    "BarbedHook_Description": "Makes your catch more secure, causing the \"fishing bar\" to cling to your catch. Works best on slow, weak fish.",
+    // TODO
+    "Baryte_Name": "Baryte",
+    // TODO
+    "Baryte_Description": "The best specimens resemble a desert rose.",
+    // TODO
+    "Basalt_Name": "Basalt",
+    // TODO
+    "Basalt_Description": "Forms near searing hot magma.",
+    // TODO
+    "BasicFertilizer_Name": "Basic Fertilizer",
+    // TODO
+    "BasicFertilizer_Description": "Improves soil quality a little, increasing your chance to grow quality crops. Mix into tilled soil.",
+    // TODO
+    "BasicRetainingSoil_Name": "Basic Retaining Soil",
+    // TODO
+    "BasicRetainingSoil_Description": "This soil has a chance of staying watered overnight. Mix into tilled soil.",
+    // TODO
+    "BatteryPack_Name": "Battery Pack",
+    // TODO
+    "BatteryPack_Description": "It's fully charged with precious energy.",
+    // TODO
+    "BatWing_Name": "Bat Wing",
+    // TODO
+    "BatWing_Description": "The material is surprisingly delicate.",
+    // TODO
+    "BeanHotpot_Name": "Bean Hotpot",
+    // TODO
+    "BeanHotpot_Description": "It sure is healthy.",
+    // TODO
+    "BeanStarter_Name": "Bean Starter",
+    // TODO
+    "BeanStarter_Description": "Plant these in the spring. Takes 10 days to mature, but keeps producing after that. Grows on a trellis.",
+    // TODO
+    "Beer_Name": "Beer",
+    // TODO
+    "Beer_Description": "Drink in moderation.",
+    // TODO
+    "Beet_Name": "Beet",
+    // TODO
+    "Beet_Description": "A sweet and earthy root vegetable. As a bonus, the leaves make a great salad.",
+    // TODO
+    "BeetSeeds_Name": "Beet Seeds",
+    // TODO
+    "BeetSeeds_Description": "Plant these in the fall. Takes 6 days to mature.",
+    // TODO
+    "BerryBasket_Name": "Berry Basket",
+    // TODO
+    "BerryBasket_Description": "The fibers are stained with berry juice.",
+    // TODO
+    "Bixite_Name": "Bixite",
+    // TODO
+    "Bixite_Description": "A dark metallic Mineral sought after for its cubic structure.",
+    // TODO
+    "Blackberry_Name": "Blackberry",
+    // TODO
+    "Blackberry_Description": "An early-fall treat.",
+    // TODO
+    "BlackberryCobbler_Name": "Blackberry Cobbler",
+    // TODO
+    "BlackberryCobbler_Description": "There's nothing quite like it.",
+    // TODO
+    "Blobfish_Name": "Blobfish",
+    // TODO
+    "Blobfish_Description": "This odd creature floats above the ocean floor, consuming any edible material in its path.",
+    // TODO
+    "Blueberry_Name": "Blueberry",
+    // TODO
+    "Blueberry_Description": "A popular berry reported to have many health benefits. The blue skin has the highest nutrient concentration.",
+    // TODO
+    "BlueberrySeeds_Name": "Blueberry Seeds",
+    // TODO
+    "BlueberrySeeds_Description": "Plant these in the summer. Takes 13 days to mature, and continues to produce after first harvest.",
+    // TODO
+    "BlueberryTart_Name": "Blueberry Tart",
+    // TODO
+    "BlueberryTart_Description": "It's subtle and refreshing.",
+    // TODO
+    "BlueDiscus_Name": "Blue Discus",
+    // TODO
+    "BlueDiscus_Description": "A brightly colored tropical fish that is popular in aquariums.",
+    // TODO
+    "BlueJazz_Name": "Blue Jazz",
+    // TODO
+    "BlueJazz_Description": "The flower grows in a sphere to invite as many butterflies as possible.",
+    // TODO
+    "BlueSlimeEgg_Name": "Blue Slime Egg",
+    // TODO
+    "BlueSlimeEgg_Description": "Can be hatched in a slime incubator.",
+    // TODO
+    "BokChoy_Name": "Bok Choy",
+    // TODO
+    "BokChoy_Description": "The leafy greens and fibrous stalks are healthy and delicious.",
+    // TODO
+    "BokChoySeeds_Name": "Bok Choy Seeds",
+    // TODO
+    "BokChoySeeds_Description": "Plant these in the fall. Takes 4 days to mature.",
+    // TODO
+    "Bomb_Name": "Bomb",
+    // TODO
+    "Bomb_Description": "Generates an explosion. Watch out!",
+    // TODO
+    "BoneFlute_Name": "Bone Flute",
+    // TODO
+    "BoneFlute_Description": "It's a prehistoric wind instrument carved from an animal's bone. It produces an eerie tone.",
+    // TODO
+    "BoneFragment_Name": "Bone Fragment",
+    // TODO
+    "BoneFragment_Description": "A small piece of bone.",
+    // TODO
+    "Bouquet_Name": "Bouquet",
+    // TODO
+    "Bouquet_Description": "A gift that shows your romantic interest.",
+    // TODO
+    "Bread_Name": "Bread",
+    // TODO
+    "Bread_Description": "A crusty baguette.",
+    // TODO
+    "Bream_Name": "Bream",
+    // TODO
+    "Bream_Description": "A fairly common river fish that becomes active at night.",
+    // TODO
+    "BrickFloor_Name": "Brick Floor",
+    // TODO
+    "BrickFloor_Description": "Place on the ground to create paths or to decorate your floors.",
+    // TODO
+    "BrokenCD_Name": "Broken CD",
+    // TODO
+    "BrokenCD_Description": "It's a JojaNet 2.0 trial CD. They must've made a billion of these things.",
+    // TODO
+    "BrokenGlasses_Name": "Broken Glasses",
+    // TODO
+    "BrokenGlasses_Description": "It looks like someone lost their glasses. They're busted.",
+    // TODO
+    "BrownEgg_Name": "Egg",
+    // TODO
+    "BrownEgg_Description": "A regular brown chicken egg.",
+    // TODO
+    "Bruschetta_Name": "Bruschetta",
+    // TODO
+    "Bruschetta_Description": "Roasted tomatoes on a crisp white bread.",
+    // TODO
+    "BugMeat_Name": "Bug Meat",
+    // TODO
+    "BugMeat_Description": "It's a juicy wad of bug flesh.",
+    // TODO
+    "BugSteak_Name": "Bug Steak",
+    // TODO
+    "BugSteak_Description": "The last resort of the hungry cave diver.",
+    // TODO
+    "Bullhead_Name": "Bullhead",
+    // TODO
+    "Bullhead_Description": "A relative of the catfish that eats a variety of foods off the lake bottom.",
+    // TODO
+    "BurglarsRing_Name": "Burglar's Ring",
+    // TODO
+    "BurglarsRing_Description": "Monsters have a greater chance of dropping loot.",
+    // TODO
+    "CactusFruit_Name": "Cactus Fruit",
+    // TODO
+    "CactusFruit_Description": "The sweet fruit of the prickly pear cactus.",
+    // TODO
+    "CactusSeeds_Name": "Cactus Seeds",
+    // TODO
+    "CactusSeeds_Description": "Can only be grown indoors. Takes 12 days to mature, and then produces fruit every 3 days.",
+    // TODO
+    "Calcite_Name": "Calcite",
+    // TODO
+    "Calcite_Description": "This yellow crystal is speckled with shimmering nodules.",
+    // TODO
+    "CampingStove_Name": "Camping Stove",
+    // TODO
+    "CampingStove_Description": "This allows you to cook anywhere, and is not consumed on use.",
+    // TODO
+    "Carp_Name": "Carp",
+    // TODO
+    "Carp_Description": "A common pond fish.",
+    // TODO
+    "CarpSurprise_Name": "Carp Surprise",
+    // TODO
+    "CarpSurprise_Description": "It's bland and oily.",
+    // TODO
+    "Catfish_Name": "Catfish",
+    // TODO
+    "Catfish_Description": "An uncommon fish found in streams.",
+    // TODO
+    "Cauliflower_Name": "Cauliflower",
+    // TODO
+    "Cauliflower_Description": "Valuable, but slow-growing. Despite its pale color, the florets are packed with nutrients.",
+    // TODO
+    "CauliflowerSeeds_Name": "Cauliflower Seeds",
+    // TODO
+    "CauliflowerSeeds_Description": "Plant these in the spring. Takes 12 days to produce a large cauliflower.",
+    // TODO
+    "CaveCarrot_Name": "Cave Carrot",
+    // TODO
+    "CaveCarrot_Description": "A starchy snack found in caves. It helps miners work longer.",
+    // TODO
+    "Caviar_Name": "Caviar",
+    // TODO
+    "Caviar_Description": "The cured roe of a sturgeon fish. Considered to be a luxurious delicacy!",
+    // TODO
+    "Celestine_Name": "Celestine",
+    // TODO
+    "Celestine_Description": "Some early life forms had bones made from this.",
+    // TODO
+    "Chanterelle_Name": "Chanterelle",
+    // TODO
+    "Chanterelle_Description": "A tasty mushroom with a fruity smell and slightly peppery flavor.",
+    // TODO
+    "Cheese_Name": "Cheese",
+    // TODO
+    "Cheese_Description": "It's your basic cheese.",
+    // TODO
+    "CheeseCauliflower_Name": "Cheese Cauliflower",
+    // TODO
+    "CheeseCauliflower_Description": "It smells great!",
+    // TODO
+    "Cherry_Name": "Cherry",
+    // TODO
+    "Cherry_Description": "It's popular, and ripens sooner than most other fruits.",
+    // TODO
+    "CherryBomb_Name": "Cherry Bomb",
+    // TODO
+    "CherryBomb_Description": "Generates a small explosion. Stand back!",
+    // TODO
+    "CherrySapling_Name": "Cherry Sapling",
+    // TODO
+    "CherrySapling_Description": "Takes 28 days to produce a mature Cherry tree. Bears fruit in the spring. Only grows if the 8 surrounding \"tiles\" are empty.",
+    // TODO
+    "ChewingStick_Name": "Chewing Stick",
+    // TODO
+    "ChewingStick_Description": "Ancient people chewed on these to keep their teeth clean.",
+    // TODO
+    "ChickenStatue_Name": "Chicken Statue",
+    // TODO
+    "ChickenStatue_Description": "It's a statue of a chicken on a bronze base. The ancient people of this area must have been very fond of chickens.",
+    // TODO
+    "ChippedAmphora_Name": "Chipped Amphora",
+    // TODO
+    "ChippedAmphora_Description": "An ancient vessel made of ceramic material. Used to transport both dry and wet goods.",
+    // TODO
+    "ChocolateCake_Name": "Chocolate Cake",
+    // TODO
+    "ChocolateCake_Description": "Rich and moist with a thick fudge icing.",
+    // TODO
+    "Chowder_Name": "Chowder",
+    // TODO
+    "Chowder_Description": "A perfect way to warm yourself after a cold night at sea.",
+    // TODO
+    "Chub_Name": "Chub",
+    // TODO
+    "Chub_Description": "A common freshwater fish known for its voracious appetite.",
+    // TODO
+    "CinderShard_Name": "Cinder Shard",
+    // TODO
+    "CinderShard_Description": "You can feel a warm glow from within this stone.",
+    // TODO
+    "CinderShardStone_Name": "Cinder Shard Stone",
+    // TODO
+    "CinderShardStone_Description": "Break apart to obtain cinder shards.",
+    // TODO
+    "Clam_Name": "Clam",
+    // TODO
+    "Clam_Description": "There's a chewy little guy in there...",
+    // TODO
+    "Clay_Name": "Clay",
+    // TODO
+    "Clay_Description": "Used in crafting and construction.",
+    // TODO
+    "ClayStone_Name": "Clay Stone",
+    // TODO
+    "ClayStone_Description": "Break apart to obtain clay.",
+    // TODO
+    "Cloth_Name": "Cloth",
+    // TODO
+    "Cloth_Description": "A bolt of fine wool cloth.",
+    // TODO
+    "Coal_Name": "Coal",
+    // TODO
+    "Coal_Description": "A combustible rock that is useful for crafting and smelting.",
+    // TODO
+    "CobblestonePath_Name": "Cobblestone Path",
+    // TODO
+    "CobblestonePath_Description": "Place on the ground to create paths or to spruce up your floors.",
+    // TODO
+    "Cockle_Name": "Cockle",
+    // TODO
+    "Cockle_Description": "A common saltwater clam.",
+    // TODO
+    "Coconut_Name": "Coconut",
+    // TODO
+    "Coconut_Description": "A seed of the coconut palm. It has many culinary uses.",
+    // TODO
+    "Coffee_Name": "Coffee",
+    // TODO
+    "Coffee_Description": "It smells delicious. This is sure to give you a boost.",
+    // TODO
+    "CoffeeBean_Name": "Coffee Bean",
+    // TODO
+    "CoffeeBean_Description": "Plant in spring or summer to grow a coffee plant. Place five beans in a keg to make coffee.",
+    // TODO
+    "Coleslaw_Name": "Coleslaw",
+    // TODO
+    "Coleslaw_Description": "It's light, fresh and very healthy.",
+    // TODO
+    "CombinedRing_Name": "Combined Ring",
+    // TODO
+    "CombinedRing_Description": "...",
+    // TODO
+    "CommonMushroom_Name": "Common Mushroom",
+    // TODO
+    "CommonMushroom_Description": "Slightly nutty, with good texture.",
+    // TODO
+    "CompleteBreakfast_Name": "Complete Breakfast",
+    // TODO
+    "CompleteBreakfast_Description": "You'll feel ready to take on the world!",
+    // TODO
+    "ConcernedApeMask_Name": "???",
+    // TODO
+    "ConcernedApeMask_Description": "???",
+    // TODO
+    "Cookie_Name": "Cookies",
+    // TODO
+    "Cookie_Description": "Very chewy.",
+    // TODO
+    "CookoutKit_Name": "Cookout Kit",
+    // TODO
+    "CookoutKit_Description": "Use this to create a cooking campfire, allowing you to cook on-the-go!",
+    // TODO
+    "CopperBar_Name": "Copper Bar",
+    // TODO
+    "CopperBar_Description": "A bar of pure copper.",
+    // TODO
+    "CopperOre_Name": "Copper Ore",
+    // TODO
+    "CopperOre_Description": "A common ore that can be smelted into bars.",
+    // TODO
+    "CopperStone_Name": "Copper Stone",
+    // TODO
+    "CopperStone_Description": "There's copper ore in this stone.",
+    // TODO
+    "Coral_Name": "Coral",
+    // TODO
+    "Coral_Description": "A colony of tiny creatures that clump together to form beautiful structures.",
+    // TODO
+    "CorkBobber_Name": "Cork Bobber",
+    // TODO
+    "CorkBobber_Description": "Slightly increases the size of your \"fishing bar\".",
+    "Corn_Name": "Coirce-milis",
+    // TODO
+    "Corn_Description": "Fear de na gràinean as mór-chòrdte. The sweet, fresh cobs are a summer favorite.",
+    // TODO
+    "CornSeeds_Name": "Sìl Coirce-milis",
+    // TODO
+    "CornSeeds_Description": "Plant these in the summer or fall. Takes 14 days to mature, and continues to produce after first harvest.",
+    // TODO
+    "Crab_Name": "Crùbag",
+    // TODO
+    "Crab_Description": "A marine crustacean with two powerful pincers.",
+    // TODO
+    "CrabCakes_Name": "Crab Cakes",
+    // TODO
+    "CrabCakes_Description": "Crab, bread crumbs, and egg formed into patties then fried to a golden brown.",
+    // TODO
+    "CrabPot_Name": "Crab Pot",
+    // TODO
+    "CrabPot_Description": "Place it in the water, load it with bait, and check the next day to see if you've caught anything. Works in streams, lakes, and the ocean.",
+    // TODO
+    "CrabshellRing_Name": "Crabshell Ring",
+    // TODO
+    "CrabshellRing_Description": "The top of the ring is made from enchanted crab shell.",
+    // TODO
+    "Cranberries_Name": "Cranberries",
+    // TODO
+    "Cranberries_Description": "These tart red berries are a traditional winter food.",
+    // TODO
+    "CranberryCandy_Name": "Cranberry Candy",
+    // TODO
+    "CranberryCandy_Description": "It's sweet enough to mask the bitter fruit.",
+    // TODO
+    "CranberrySauce_Name": "Cranberry Sauce",
+    // TODO
+    "CranberrySauce_Description": "A festive treat.",
+    // TODO
+    "CranberrySeeds_Name": "Cranberry Seeds",
+    // TODO
+    "CranberrySeeds_Description": "Plant these in the fall. Takes 7 days to mature, and continues to produce after first harvest.",
+    "Crayfish_Name": "Giomach-ciùil",
+    // TODO
+    "Crayfish_Description": "A small freshwater relative of the lobster.",
+    // TODO
+    "Crimsonfish_Name": "Crimsonfish",
+    // TODO
+    "Crimsonfish_Description": "Lives deep in the ocean but likes to lay its eggs in the warm summer water.",
+    // TODO
+    "CrispyBass_Name": "Crispy Bass",
+    // TODO
+    "CrispyBass_Description": "Wow, the breading is perfect.",
+    // TODO
+    "Crocus_Name": "Crocus",
+    // TODO
+    "Crocus_Description": "A flower that can bloom in the winter.",
+    // TODO
+    "CrystalFloor_Name": "Crystal Floor",
+    // TODO
+    "CrystalFloor_Description": "Place on the ground to create paths or to spruce up your floors.",
+    // TODO
+    "CrystalFruit_Name": "Crystal Fruit",
+    // TODO
+    "CrystalFruit_Description": "A delicate fruit that pops up from the snow.",
+    // TODO
+    "CrystalPath_Name": "Crystal Path",
+    // TODO
+    "CrystalPath_Description": "Place on the ground to create paths or to spruce up your floors.",
+    // TODO
+    "CuriosityLure_Name": "Curiosity Lure",
+    // TODO
+    "CuriosityLure_Description": "Increases your chance to catch rare fish.",
+    // TODO
+    "Daffodil_Name": "Daffodil",
+    // TODO
+    "Daffodil_Description": "A traditional spring flower that makes a nice gift.",
+    // TODO
+    "Dandelion_Name": "Dandelion",
+    // TODO
+    "Dandelion_Description": "Not the prettiest flower, but the leaves make a good salad.",
+    // TODO
+    "DecorativePot_Name": "Decorative Pot",
+    // TODO
+    "DecorativePot_Description": "A replica of an ancient pot.",
+    // TODO
+    "DeluxeFertilizer_Name": "Deluxe Fertilizer",
+    // TODO
+    "DeluxeFertilizer_Description": "Greatly improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil.",
+    // TODO
+    "DeluxeRetainingSoil_Name": "Deluxe Retaining Soil",
+    // TODO
+    "DeluxeRetainingSoil_Description": "This soil has a 100% chance of staying watered overnight. Mix into tilled soil.",
+    // TODO
+    "DeluxeSpeedGro_Name": "Deluxe Speed-Gro",
+    // TODO
+    "DeluxeSpeedGro_Description": "Stimulates leaf production. Guaranteed to increase growth rate by at least 25%. Mix into tilled soil.",
+    // TODO
+    "Diamond_Name": "Diamond",
+    // TODO
+    "Diamond_Description": "A rare and valuable gem.",
+    // TODO
+    "DiamondStone_Name": "Diamond Stone",
+    // TODO
+    "DiamondStone_Description": "Break apart to obtain diamonds.",
+    // TODO
+    "DinosaurEgg_Name": "Dinosaur Egg",
+    // TODO
+    "DinosaurEgg_Description": "A giant dino egg... The entire shell is still intact!",
+    // TODO
+    "DinosaurMayonnaise_Name": "Dinosaur Mayonnaise",
+    // TODO
+    "DinosaurMayonnaise_Description": "It's thick and creamy, with a vivid green hue. It smells like grass and leather.",
+    // TODO
+    "DishOTheSea_Name": "Dish O' The Sea",
+    // TODO
+    "DishOTheSea_Description": "This'll keep you warm in the cold sea air.",
+    // TODO
+    "Dolomite_Name": "Dolomite",
+    // TODO
+    "Dolomite_Description": "It can occur in coral reefs, often near an underwater volcano.",
+    // TODO
+    "Dorado_Name": "Dorado",
+    // TODO
+    "Dorado_Description": "A fierce carnivore with brilliant orange scales.",
+    // TODO
+    "DragonTooth_Name": "Dragon Tooth",
+    // TODO
+    "DragonTooth_Description": "These are rumored to be the teeth of ancient serpents. The enamel is made of pure iridium!",
+    // TODO
+    "DressedSpinner_Name": "Dressed Spinner",
+    // TODO
+    "DressedSpinner_Description": "The metal tab and colorful streamers create an enticing spectacle for fish. Increases the bite-rate when fishing.",
+    // TODO
+    "DriedStarfish_Name": "Dried Starfish",
+    // TODO
+    "DriedStarfish_Description": "A starfish from the primordial ocean. It's an unusually pristine specimen!",
+    // TODO
+    "Driftwood_Name": "Driftwood",
+    // TODO
+    "Driftwood_Description": "A piece of wood from the sea.",
+    // TODO
+    "DrumBlock_Name": "Drum Block",
+    // TODO
+    "DrumBlock_Description": "Plays a drum sound when you walk past.",
+    // TODO
+    "DuckEgg_Name": "Duck Egg",
+    // TODO
+    "DuckEgg_Description": "It's still warm.",
+    // TODO
+    "DuckFeather_Name": "Duck Feather",
+    // TODO
+    "DuckFeather_Description": "It's so colorful.",
+    // TODO
+    "DuckMayonnaise_Name": "Duck Mayonnaise",
+    // TODO
+    "DuckMayonnaise_Description": "It's a rich, yellow mayonnaise.",
+    // TODO
+    "DwarfGadget_Name": "Dwarf Gadget",
+    // TODO
+    "DwarfGadget_Description": "It's a piece of the advanced technology once known to the dwarves. It's still glowing and humming, but you're unable to understand how it works.",
+    // TODO
+    "DwarfScrollI_Name": "Dwarf Scroll I",
+    // TODO
+    "DwarfScrollI_Description": "A yellowed scroll of parchment filled with dwarven script. This one's tied with a red bow.",
+    // TODO
+    "DwarfScrollII_Name": "Dwarf Scroll II",
+    // TODO
+    "DwarfScrollII_Description": "A yellowed scroll of parchment filled with dwarven script. This one's tied with a green ribbon.",
+    // TODO
+    "DwarfScrollIII_Name": "Dwarf Scroll III",
+    // TODO
+    "DwarfScrollIII_Description": "A yellowed scroll of parchment filled with dwarven script. This one's tied with a blue rope.",
+    // TODO
+    "DwarfScrollIV_Name": "Dwarf Scroll IV",
+    // TODO
+    "DwarfScrollIV_Description": "A yellowed scroll of parchment filled with dwarven script. This one's tied with a golden chain.",
+    // TODO
+    "DwarvishHelm_Name": "Dwarvish Helm",
+    // TODO
+    "DwarvishHelm_Description": "It's one of the helmets commonly worn by dwarves. The thick metal plating protects them from falling debris and stalactites.",
+    // TODO
+    "DwarvishTranslationGuide_Name": "Dwarvish Translation Guide",
+    // TODO
+    "DwarvishTranslationGuide_Description": "Teaches you dwarvish.",
+    // TODO
+    "EarthCrystal_Name": "Earth Crystal",
+    // TODO
+    "EarthCrystal_Description": "A resinous substance found near the surface.",
+    // TODO
+    "Ectoplasm_Name": "Ectoplasm",
+    // TODO
+    "Ectoplasm_Description": "A thick, slimy goop that the Wizard wants for some reason.",
+    // TODO
+    "Eel_Name": "Eel",
+    // TODO
+    "Eel_Description": "A long, slippery little fish.",
+    // TODO
+    "Eggplant_Name": "Eggplant",
+    // TODO
+    "Eggplant_Description": "A rich and wholesome relative of the tomato. Delicious fried or stewed.",
+    // TODO
+    "EggplantParmesan_Name": "Eggplant Parmesan",
+    // TODO
+    "EggplantParmesan_Description": "Tangy, cheesy, and wonderful.",
+    // TODO
+    "EggplantSeeds_Name": "Eggplant Seeds",
+    // TODO
+    "EggplantSeeds_Description": "Plant these in the fall. Takes 5 days to mature, and continues to produce after first harvest.",
+    // TODO
+    "ElvishJewelry_Name": "Elvish Jewelry",
+    // TODO
+    "ElvishJewelry_Description": "Dirty but still beautiful. On the side is a flowing script thought by some to be the ancient language of the elves. No Elvish bones have ever been found.",
+    // TODO
+    "Emerald_Name": "Emerald",
+    // TODO
+    "Emerald_Description": "A precious stone with a brilliant green color.",
+    // TODO
+    "EmeraldRing_Name": "Emerald Ring",
+    // TODO
+    "EmeraldRing_Description": "Increases weapon speed by 10%.",
+    // TODO
+    "EmeraldStone_Name": "Emerald Stone",
+    // TODO
+    "EmeraldStone_Description": "Break apart to obtain emeralds.",
+    // TODO
+    "EnergyTonic_Name": "Energy Tonic",
+    // TODO
+    "EnergyTonic_Description": "Restores a lot of energy.",
+    // TODO
+    "Enricher_Name": "Enricher",
+    // TODO
+    "Enricher_Description": "Place on a sprinkler and load with fertilizer to automatically apply it when planting seeds nearby.",
+    // TODO
+    "Escargot_Name": "Escargot",
+    // TODO
+    "Escargot_Description": "Butter-soaked snails cooked to perfection.",
+    // TODO
+    "Esperite_Name": "Esperite",
+    // TODO
+    "Esperite_Description": "The crystals glow bright green when stimulated.",
+    // TODO
+    "ExplosiveAmmo_Name": "Explosive Ammo",
+    // TODO
+    "ExplosiveAmmo_Description": "Fire this with the slingshot.",
+    // TODO
+    "FairyDust_Name": "Fairy Dust",
+    // TODO
+    "FairyDust_Description": "Sprinkle on kegs, furnaces, and other refining equipment to instantly receive their product.",
+    // TODO
+    "FairyRose_Name": "Fairy Rose",
+    // TODO
+    "FairyRose_Description": "An old folk legend suggests that the sweet smell of this flower attracts fairies.",
+    // TODO
+    "FairySeeds_Name": "Fairy Seeds",
+    // TODO
+    "FairySeeds_Description": "Plant in fall. Takes 12 days to produce a mysterious flower. Assorted Colors.",
+    // TODO
+    "FairyStone_Name": "Fairy Stone",
+    // TODO
+    "FairyStone_Description": "An old miner's song suggests these are made from the bones of ancient fairies.",
+    // TODO
+    "FallSeeds_Name": "Fall Seeds",
+    // TODO
+    "FallSeeds_Description": "An assortment of wild fall seeds.",
+    // TODO
+    "FarmersLunch_Name": "Farmer's Lunch",
+    // TODO
+    "FarmersLunch_Description": "This'll keep you going.",
+    // TODO
+    "Fiber_Name": "Fiber",
+    // TODO
+    "Fiber_Description": "Raw material sourced from plants.",
+    // TODO
+    "FiberSeeds_Name": "Fiber Seeds",
+    // TODO
+    "FiberSeeds_Description": "Plant these in any season. Does not require watering. Harvest with the scythe. Takes 7 days to grow.",
+    // TODO
+    "FiddleheadFern_Name": "Fiddlehead Fern",
+    // TODO
+    "FiddleheadFern_Description": "The young shoots are an edible specialty.",
+    // TODO
+    "FiddleheadRisotto_Name": "Fiddlehead Risotto",
+    // TODO
+    "FiddleheadRisotto_Description": "A creamy rice dish served with sauteed fern heads. It's a little bland.",
+    // TODO
+    "FieldSnack_Name": "Field Snack",
+    // TODO
+    "FieldSnack_Description": "A quick snack to fuel the hungry forager.",
+    // TODO
+    "FireOpal_Name": "Fire Opal",
+    // TODO
+    "FireOpal_Description": "A rare variety of opal, named for its red spots.",
+    // TODO
+    "FireQuartz_Name": "Fire Quartz",
+    // TODO
+    "FireQuartz_Description": "A glowing red crystal commonly found near hot lava.",
+    // TODO
+    "FireworksGreen_Name": "Fireworks (Green)",
+    // TODO
+    "FireworksGreen_Description": "An old tradition for celebrations and festivities. Handle with care!",
+    // TODO
+    "FireworksPurple_Name": "Fireworks (Purple)",
+    // TODO
+    "FireworksPurple_Description": "An old tradition for celebrations and festivities. Handle with care!",
+    // TODO
+    "FireworksRed_Name": "Fireworks (Red)",
+    // TODO
+    "FireworksRed_Description": "An old tradition for celebrations and festivities. Handle with care!",
+    // TODO
+    "FishStew_Name": "Fish Stew",
+    // TODO
+    "FishStew_Description": "It smells a lot like the sea. Tastes better, though.",
+    // TODO
+    "FishTaco_Name": "Fish Taco",
+    // TODO
+    "FishTaco_Description": "It smells delicious.",
+    // TODO
+    "Flounder_Name": "Flounder",
+    // TODO
+    "Flounder_Description": "It lives on the bottom, so both eyes are on top of its head.",
+    // TODO
+    "Fluorapatite_Name": "Fluorapatite",
+    // TODO
+    "Fluorapatite_Description": "Small amounts are found in human teeth.",
+    // TODO
+    "FluteBlock_Name": "Flute Block",
+    // TODO
+    "FluteBlock_Description": "Plays a flute sound when you walk past.",
+    // TODO
+    "FossilizedLeg_Name": "Fossilized Leg",
+    // TODO
+    "FossilizedLeg_Description": "A thick and sturdy leg bone.",
+    // TODO
+    "FossilizedRibs_Name": "Fossilized Ribs",
+    // TODO
+    "FossilizedRibs_Description": "Long ago, these ribs protected the body of a large animal.",
+    // TODO
+    "FossilizedSkull_Name": "Fossilized Skull",
+    // TODO
+    "FossilizedSkull_Description": "It's a perfect specimen!",
+    // TODO
+    "FossilizedSpine_Name": "Fossilized Spine",
+    // TODO
+    "FossilizedSpine_Description": "A column of interlocking vertebrae.",
+    // TODO
+    "FossilizedTail_Name": "Fossilized Tail",
+    // TODO
+    "FossilizedTail_Description": "This tail has a club-like feature at the tip.",
+    // TODO
+    "FossilStone_Name": "Fossil Stone",
+    // TODO
+    "FossilStone_Description": "Break apart to obtain fossils and bones.",
+    // TODO
+    "FriedCalamari_Name": "Fried Calamari",
+    // TODO
+    "FriedCalamari_Description": "It's so chewy.",
+    // TODO
+    "FriedEel_Name": "Fried Eel",
+    // TODO
+    "FriedEel_Description": "Greasy but flavorful.",
+    // TODO
+    "FriedEgg_Name": "Fried Egg",
+    // TODO
+    "FriedEgg_Description": "Sunny-side up.",
+    // TODO
+    "FriedMushroom_Name": "Fried Mushroom",
+    // TODO
+    "FriedMushroom_Description": "Earthy and aromatic.",
+    // TODO
+    "FrozenGeode_Name": "Frozen Geode",
+    // TODO
+    "FrozenGeode_Description": "A blacksmith can break this open for you.",
+    // TODO
+    "FrozenGeodeStone_Name": "Frozen Geode Stone",
+    // TODO
+    "FrozenGeodeStone_Description": "Break apart to obtain frozen geodes.",
+    // TODO
+    "FrozenTear_Name": "Frozen Tear",
+    // TODO
+    "FrozenTear_Description": "A crystal fabled to be the frozen tears of a yeti.",
+    // TODO
+    "FruitSalad_Name": "Fruit Salad",
+    // TODO
+    "FruitSalad_Description": "A delicious combination of summer fruits.",
+    // TODO
+    "GalaxySoul_Name": "Galaxy Soul",
+    // TODO
+    "GalaxySoul_Description": "Forge 3 of these into a Galaxy weapon to unleash its final form.",
+    // TODO
+    "Garlic_Name": "Garlic",
+    // TODO
+    "Garlic_Description": "Adds a wonderful zestiness to dishes. High quality garlic can be pretty spicy.",
+    // TODO
+    "GarlicSeeds_Name": "Garlic Seeds",
+    // TODO
+    "GarlicSeeds_Description": "Plant these in the spring. Takes 4 days to mature.",
+    // TODO
+    "Gate_Name": "Gate",
+    // TODO
+    "Gate_Description": "Allows you to pass through a fence.",
+    // TODO
+    "Geminite_Name": "Geminite",
+    // TODO
+    "Geminite_Description": "Occurs in brilliant clusters.",
+    // TODO
+    "GemStone_Name": "Gem Stone",
+    // TODO
+    "GemStone_Description": "Break apart to obtain stone, ores, or geodes.",
+    // TODO
+    "Geode_Name": "Geode",
+    // TODO
+    "Geode_Description": "A blacksmith can break this open for you.",
+    // TODO
+    "GeodeStone_Name": "Geode Stone",
+    // TODO
+    "GeodeStone_Description": "Break apart to obtain geodes.",
+    // TODO
+    "GhostCrystal_Name": "Ghost Crystal",
+    // TODO
+    "GhostCrystal_Description": "There is an aura of coldness around this crystal.",
+    // TODO
+    "Ghostfish_Name": "Ghostfish",
+    // TODO
+    "Ghostfish_Description": "A pale, blind fish found in underground lakes.",
+    // TODO
+    "Ginger_Name": "Ginger",
+    // TODO
+    "Ginger_Description": "This sharp, spicy root is said to increase vitality.",
+    // TODO
+    "GingerAle_Name": "Ginger Ale",
+    // TODO
+    "GingerAle_Description": "A zesty soda known for its soothing effect on the stomach.",
+    // TODO
+    "Glacierfish_Name": "Glacierfish",
+    // TODO
+    "Glacierfish_Description": "Builds a nest on the underside of glaciers.",
+    // TODO
+    "GlacierfishJr_Name": "Glacierfish Jr.",
+    // TODO
+    "GlacierfishJr_Description": "The original Glacierfish had a son...",
+    // TODO
+    "GlassShards_Name": "Glass Shards",
+    // TODO
+    "GlassShards_Description": "A mixture of glass shards smoothed by centuries of ocean surf. These could have belonged to an ancient mosaic or necklace.",
+    // TODO
+    "GlazedYams_Name": "Glazed Yams",
+    // TODO
+    "GlazedYams_Description": "Sweet and satisfying... The sugar gives it a hint of caramel.",
+    // TODO
+    "GlowRing_Name": "Glow Ring",
+    // TODO
+    "GlowRing_Description": "Emits a constant light.",
+    // TODO
+    "GlowstoneRing_Name": "Glowstone Ring",
+    // TODO
+    "GlowstoneRing_Description": "Emits a constant light, and also increases your radius for collecting items.",
+    // TODO
+    "GoatCheese_Name": "Goat Cheese",
+    // TODO
+    "GoatCheese_Description": "Soft cheese made from goat's milk.",
+    // TODO
+    "GoatMilk_Name": "Goat Milk",
+    // TODO
+    "GoatMilk_Description": "The milk of a goat.",
+    // TODO
+    "GoldBar_Name": "Gold Bar",
+    // TODO
+    "GoldBar_Description": "A bar of pure gold.",
+    // TODO
+    "GoldenCoconut_Name": "Golden Coconut",
+    // TODO
+    "GoldenCoconut_Description": "This is one tough nut to crack, but a professional might be able to break it open.",
+    // TODO
+    "GoldenEgg_Name": "Golden Egg",
+    // TODO
+    "GoldenEgg_Description": "A very rare and special egg with a solid gold shell.",
+    // TODO
+    "GoldenMask_Name": "Golden Mask",
+    // TODO
+    "GoldenMask_Description": "A creepy golden mask probably used in an ancient magic ritual. A socket in the forehead contains a large purple gemstone.",
+    // TODO
+    "GoldenPumpkin_Name": "Golden Pumpkin",
+    // TODO
+    "GoldenPumpkin_Description": "It's valuable but has no other purpose.",
+    // TODO
+    "GoldenRelic_Name": "Golden Relic",
+    // TODO
+    "GoldenRelic_Description": "It's a golden slab with hieroglyphs and pictures emblazoned onto the front.",
+    // TODO
+    "GoldenWalnut_Name": "Golden Walnut",
+    // TODO
+    "GoldenWalnut_Description": "To the parrots of Ginger Island, this nut is the finest delicacy.",
+    // TODO
+    "GoldOre_Name": "Gold Ore",
+    // TODO
+    "GoldOre_Description": "A precious ore that can be smelted into bars.",
+    // TODO
+    "GoldStone_Name": "Gold Stone",
+    // TODO
+    "GoldStone_Description": "Break apart to obtain gold ore.",
+    // TODO
+    "GourmetTomatoSalt_Name": "Gourmet Tomato Salt",
+    // TODO
+    "GourmetTomatoSalt_Description": "A rare, delicious and savory salt.",
+    "Granite_Name": "Clach-ghràin",
+    // TODO
+    "Granite_Description": "A speckled Mineral that is commonly used in construction.",
+    "Grape_Name": "Fìon-dhearc",
+    // TODO
+    "Grape_Description": "A sweet cluster of fruit.",
+    // TODO
+    "GrapeStarter_Name": "Grape Starter",
+    // TODO
+    "GrapeStarter_Description": "Plant these in the fall. Takes 10 days to grow, but keeps producing after that. Grows on a trellis.",
+    // TODO
+    "GrassStarter_Name": "Grass Starter",
+    // TODO
+    "GrassStarter_Description": "Place this on your farm to start a new patch of grass.",
+    // TODO
+    "GravelPath_Name": "Gravel Path",
+    // TODO
+    "GravelPath_Description": "Place on the ground to create paths or to spruce up your floors.",
+    // TODO
+    "GreenAlgae_Name": "Green Algae",
+    // TODO
+    "GreenAlgae_Description": "It's really slimy.",
+    // TODO
+    "GreenBean_Name": "Green Bean",
+    // TODO
+    "GreenBean_Description": "A juicy little bean with a cool, crisp snap.",
+    // TODO
+    "GreenSlimeEgg_Name": "Green Slime Egg",
+    // TODO
+    "GreenSlimeEgg_Description": "Can be hatched in a slime incubator.",
+    // TODO
+    "GreenTea_Name": "Green Tea",
+    // TODO
+    "GreenTea_Description": "A pleasant, energizing beverage made from lightly processed tea leaves.",
+    // TODO
+    "HaleysLostBracelet_Name": "Haley's Lost Bracelet",
+    // TODO
+    "HaleysLostBracelet_Description": "A family heirloom.",
+    "Halibut_Name": "Bradan-leathann",
+    // TODO
+    "Halibut_Description": "A flat fish that lives on the ocean floor.",
+    // TODO
+    "Hardwood_Name": "Hardwood",
+    // TODO
+    "Hardwood_Description": "A special kind of wood with superior strength and beauty.",
+    // TODO
+    "HardwoodFence_Name": "Hardwood Fence",
+    // TODO
+    "HardwoodFence_Description": "The most durable type of fence.",
+    // TODO
+    "Hashbrowns_Name": "Hashbrowns",
+    // TODO
+    "Hashbrowns_Description": "Crispy and golden-brown!",
+    "Hay_Name": "Saoidhe",
+    // TODO
+    "Hay_Description": "Dried grass used as animal food.",
+    "Hazelnut_Name": "Cnò-challtainn",
+    "Hazelnut_Description": "Abair cnò-challtainn mhór!",
+    // TODO
+    "Hedge_Name": "Hedge",
+    // TODO
+    "Hedge_Description": "A shaped bush that acts like a fence.",
+    // TODO
+    "Helvite_Name": "Helvite",
+    // TODO
+    "Helvite_Description": "It grows in a triangular column.",
+    // TODO
+    "Hematite_Name": "Hematite",
+    // TODO
+    "Hematite_Description": "An iron-based Mineral with interesting magnetic properties.",
+    "Herring_Name": "Sgadan",
+    // TODO
+    "Herring_Description": "A common ocean fish.",
+    // TODO
+    "Holly_Name": "Holly",
+    // TODO
+    "Holly_Description": "The leaves and bright red berries make a popular winter decoration.",
+    "Honey_Name": "Mil",
+    // TODO
+    "Honey_Description": "It's a sweet syrup produced by bees.",
+    // TODO
+    "Hops_Name": "Hops",
+    // TODO
+    "Hops_Description": "A bitter, tangy flower used to flavor beer.",
+    // TODO
+    "HopsStarter_Name": "Hops Starter",
+    // TODO
+    "HopsStarter_Description": "Plant these in the summer. Takes 11 days to grow, but keeps producing after that. Grows on a trellis.",
+    // TODO
+    "HorseFlute_Name": "Horse Flute",
+    // TODO
+    "HorseFlute_Description": "Playing this flute will summon your horse. Only works outdoors.",
+    // TODO
+    "HotJavaRing_Name": "Hot Java Ring",
+    // TODO
+    "HotJavaRing_Description": "Greatly increases your chance to find coffee drinks when slaying monsters.",
+    "HotPepper_Name": "Piopar Teth",
+    // TODO
+    "HotPepper_Description": "Fiery hot with a hint of sweetness.",
+    // TODO
+    "HyperSpeedGro_Name": "Hyper Speed-Gro",
+    // TODO
+    "HyperSpeedGro_Description": "Greatly stimulates leaf production. Guaranteed to increase growth rate by at least 33%. Mix into tilled soil.",
+    "IceCream_Name": "Reòiteag",
+    // TODO
+    "IceCream_Description": "It's hard to find someone who doesn't like this.",
+    // TODO
+    "IceCrystal_Name": "Ice Crystal",
+    // TODO
+    "IceCrystal_Description": "Might contain refined quartz.",
+    // TODO
+    "IcePip_Name": "Ice Pip",
+    // TODO
+    "IcePip_Description": "A rare fish that thrives in extremely cold conditions.",
+    // TODO
+    "ImmunityBand_Name": "Immunity Band",
+    // TODO
+    "ImmunityBand_Description": "The top of the ring is made from enchanted purple wool.",
+    // TODO
+    "IridiumBand_Name": "Iridium Band",
+    // TODO
+    "IridiumBand_Description": "Glows, attracts items, and increases attack damage by 10%.",
+    // TODO
+    "IridiumBar_Name": "Iridium Bar",
+    // TODO
+    "IridiumBar_Description": "A bar of pure iridium.",
+    // TODO
+    "IridiumMilk_Name": "Iridium Milk",
+    // TODO
+    "IridiumMilk_Description": "A powerful 'milk' of unknown origin...",
+    // TODO
+    "IridiumOre_Name": "Iridium Ore",
+    // TODO
+    "IridiumOre_Description": "An exotic ore with many curious properties. Can be smelted into bars.",
+    // TODO
+    "IridiumSprinkler_Name": "Iridium Sprinkler",
+    // TODO
+    "IridiumSprinkler_Description": "Waters the 24 adjacent tiles every morning.",
+    // TODO
+    "IridiumStone_Name": "Iridium Stone",
+    // TODO
+    "IridiumStone_Description": "Break apart to obtain iridium ore.",
+    // TODO
+    "IronBar_Name": "Iron Bar",
+    // TODO
+    "IronBar_Description": "A bar of pure iron.",
+    // TODO
+    "IronFence_Name": "Iron Fence",
+    // TODO
+    "IronFence_Description": "Lasts longer than a stone fence.",
+    // TODO
+    "IronOre_Name": "Iron Ore",
+    // TODO
+    "IronOre_Description": "A fairly common ore that can be smelted into bars.",
+    // TODO
+    "IronStone_Name": "Iron Stone",
+    // TODO
+    "IronStone_Description": "Break apart to obtain iron ore.",
+    "JackOLantern_Name": "Boitean-mearbhaill",
+    // TODO
+    "JackOLantern_Description": "A whimsical fall decoration.",
+    "Jade_Name": "Séada",
+    // TODO
+    "Jade_Description": "A pale green ornamental stone.",
+    // TODO
+    "JadeRing_Name": "Jade Ring",
+    // TODO
+    "JadeRing_Description": "Increases critical strike power by 10%.",
+    // TODO
+    "JadeStone_Name": "Jade Stone",
+    // TODO
+    "JadeStone_Description": "Break apart to obtain jade.",
+    // TODO
+    "Jagoite_Name": "Jagoite",
+    // TODO
+    "Jagoite_Description": "A high volume of tiny crystals makes it very glittery.",
+    // TODO
+    "Jamborite_Name": "Jamborite",
+    // TODO
+    "Jamborite_Description": "The crystals are so tightly packed it almost looks fuzzy.",
+    "Jasper_Name": "Iaspar",
+    // TODO
+    "Jasper_Description": "When polished, this stone becomes attractively luminous. Prized by ancient peoples for thousands of years.",
+    // TODO
+    "JazzSeeds_Name": "Jazz Seeds",
+    // TODO
+    "JazzSeeds_Description": "Plant in spring. Takes 7 days to produce a blue puffball flower.",
+    "Jelly_Name": "Silidh",
+    // TODO
+    "Jelly_Description": "Gooey.",
+    // TODO
+    "JojaCola_Name": "Joja Cola",
+    // TODO
+    "JojaCola_Description": "The flagship product of Joja corporation.",
+    // TODO
+    "JournalScrap_Name": "Journal Scrap",
+    // TODO
+    "JournalScrap_Description": "A damp tattered page torn from an old journal...",
+    "Juice_Name": "Sùgh",
+    // TODO
+    "Juice_Description": "A sweet, nutritious beverage.",
+    // TODO
+    "JukeboxRing_Name": "Jukebox Ring",
+    // TODO
+    "JukeboxRing_Description": "Plays a random assortment of music you've heard.",
+    // TODO
+    "Kale_Name": "Kale",
+    // TODO
+    "Kale_Description": "The waxy leaves are great in soups and stir fries.",
+    // TODO
+    "KaleSeeds_Name": "Kale Seeds",
+    // TODO
+    "KaleSeeds_Description": "Plant these in the spring. Takes 6 days to mature. Harvest with the scythe.",
+    // TODO
+    "Kyanite_Name": "Kyanite",
+    // TODO
+    "Kyanite_Description": "The geometric faces are as smooth as glass.",
+    "LargeBrownEgg_Name": "Ùgh Mór",
+    // TODO
+    "LargeBrownEgg_Description": "It's an uncommonly large brown egg!",
+    // TODO
+    "LargeMilk_Name": "Large Milk",
+    // TODO
+    "LargeMilk_Description": "A large jug of cow's milk.",
+    // TODO
+    "LargemouthBass_Name": "Largemouth Bass",
+    // TODO
+    "LargemouthBass_Description": "A popular fish that lives in lakes.",
+    // TODO
+    "LargeWhiteEgg_Name": "Large Egg",
+    // TODO
+    "LargeWhiteEgg_Description": "It's an uncommonly large white egg!",
+    // TODO
+    "LavaEel_Name": "Lava Eel",
+    // TODO
+    "LavaEel_Description": "It can somehow survive in pools of red-hot lava.",
+    // TODO
+    "LeadBobber_Name": "Lead Bobber",
+    // TODO
+    "LeadBobber_Description": "Adds weight to your \"fishing bar\", preventing it from bouncing along the bottom.",
+    // TODO
+    "Leek_Name": "Leek",
+    // TODO
+    "Leek_Description": "A tasty relative of the onion.",
+    // TODO
+    "Legend_Name": "Legend",
+    // TODO
+    "Legend_Description": "The king of all fish! They said he'd never be caught.",
+    // TODO
+    "LegendII_Name": "Legend II",
+    // TODO
+    "LegendII_Description": "The successor to the original Legend.",
+    // TODO
+    "LemonStone_Name": "Lemon Stone",
+    // TODO
+    "LemonStone_Description": "Some claim the powdered crystal is a dwarvish delicacy.",
+    // TODO
+    "LGoatMilk_Name": "L. Goat Milk",
+    // TODO
+    "LGoatMilk_Description": "A gallon of creamy goat's milk.",
+    // TODO
+    "LifeElixir_Name": "Life Elixir",
+    // TODO
+    "LifeElixir_Description": "Restores health to full.",
+    // TODO
+    "Limestone_Name": "Limestone",
+    // TODO
+    "Limestone_Description": "A very common type of stone. It's not worth very much.",
+    // TODO
+    "Lingcod_Name": "Lingcod",
+    // TODO
+    "Lingcod_Description": "A fearsome predator that will eat almost anything it can cram into its mouth.",
+    // TODO
+    "Lionfish_Name": "Lionfish",
+    // TODO
+    "Lionfish_Description": "An aggressive, predatory fish with venomous spines.",
+    "Lobster_Name": "Giomach",
+    // TODO
+    "Lobster_Description": "A large ocean-dwelling crustacean with a strong tail.",
+    // TODO
+    "LobsterBisque_Name": "Lobster Bisque",
+    // TODO
+    "LobsterBisque_Description": "This delicate soup is a secret family recipe of Willy's.",
+    // TODO
+    "LostAxe_Name": "Lost Axe",
+    // TODO
+    "LostAxe_Description": "Robin's been looking everywhere for it.",
+    // TODO
+    "LostBook_Name": "Lost Book",
+    // TODO
+    "LostBook_Description": "Writings from a wide variety of time periods.",
+    // TODO
+    "LuckyLunch_Name": "Lucky Lunch",
+    // TODO
+    "LuckyLunch_Description": "A special little meal.",
+    // TODO
+    "LuckyPurpleShorts_Name": "Lucky Purple Shorts",
+    // TODO
+    "LuckyPurpleShorts_Description": "Better not inspect these too closely.",
+    // TODO
+    "LuckyRing_Name": "Lucky Ring",
+    // TODO
+    "LuckyRing_Description": "The lunar emblem is said to bring good luck to whoever wears it.",
+    // TODO
+    "Lumber_Name": "Lumber",
+    // TODO
+    "Lumber_Description": "A versatile resource used for building and fuel.",
+    // TODO
+    "Lunarite_Name": "Lunarite",
+    // TODO
+    "Lunarite_Description": "The cratered white orbs form a tight cluster.",
+    // TODO
+    "MagicBait_Name": "Magic Bait",
+    // TODO
+    "MagicBait_Description": "Allows you to catch fish from any season, time, or weather, from whichever type of water you cast into.",
+    // TODO
+    "MagicRockCandy_Name": "Magic Rock Candy",
+    // TODO
+    "MagicRockCandy_Description": "A rare and powerful candy infused with the essence of the prismatic shard.",
+    // TODO
+    "MagmaCap_Name": "Magma Cap",
+    // TODO
+    "MagmaCap_Description": "A very rare mushroom that lives next to pools of lava.",
+    // TODO
+    "MagmaGeode_Name": "Magma Geode",
+    // TODO
+    "MagmaGeode_Description": "A blacksmith can break this open for you.",
+    // TODO
+    "MagmaGeodeStone_Name": "Magma Geode Stone",
+    // TODO
+    "MagmaGeodeStone_Description": "Break apart to obtain magma geodes.",
+    // TODO
+    "Magnet_Name": "Magnet",
+    // TODO
+    "Magnet_Description": "Increases the chance of finding treasures when fishing. However, fish aren't crazy about the taste.",
+    // TODO
+    "MagnetRing_Name": "Magnet Ring",
+    // TODO
+    "MagnetRing_Description": "Increases your radius for collecting items.",
+    // TODO
+    "MahoganySeed_Name": "Mahogany Seed",
+    // TODO
+    "MahoganySeed_Description": "This can be planted to grow a mahogany tree.",
+    // TODO
+    "MakiRoll_Name": "Maki Roll",
+    // TODO
+    "MakiRoll_Description": "Fish and rice wrapped in seaweed.",
+    // TODO
+    "Malachite_Name": "Malachite",
+    // TODO
+    "Malachite_Description": "A popular ornamental stone, used in sculpture and to make green paint.",
+    // TODO
+    "Mango_Name": "Mango",
+    // TODO
+    "Mango_Description": "A big, sweet tropical fruit with a unique flavor.",
+    // TODO
+    "MangoSapling_Name": "Mango Sapling",
+    // TODO
+    "MangoSapling_Description": "Takes 28 days to produce a mature Mango tree. Bears fruit in the summer, or all year round when planted on Ginger Island.",
+    // TODO
+    "MangoStickyRice_Name": "Mango Sticky Rice",
+    // TODO
+    "MangoStickyRice_Description": "Sweet mango and coconut transforms this rice into something very special.",
+    // TODO
+    "MapleBar_Name": "Maple Bar",
+    // TODO
+    "MapleBar_Description": "It's a sweet doughnut topped with a rich maple glaze.",
+    // TODO
+    "MapleSeed_Name": "Maple Seed",
+    // TODO
+    "MapleSeed_Description": "This can be planted to grow a maple tree.",
+    // TODO
+    "MapleSyrup_Name": "Maple Syrup",
+    // TODO
+    "MapleSyrup_Description": "A sweet syrup with a unique flavor.",
+    // TODO
+    "Marble_Name": "Marble",
+    // TODO
+    "Marble_Description": "A very popular material for sculptures and construction.",
+    // TODO
+    "Mayonnaise_Name": "Mayonnaise",
+    // TODO
+    "Mayonnaise_Description": "It looks spreadable.",
+    // TODO
+    "Mead_Name": "Mead",
+    // TODO
+    "Mead_Description": "A fermented beverage made from honey. Drink in moderation.",
+    // TODO
+    "MegaBomb_Name": "Mega Bomb",
+    // TODO
+    "MegaBomb_Description": "Generates a powerful explosion. Use with extreme caution.",
+    // TODO
+    "Melon_Name": "Melon",
+    // TODO
+    "Melon_Description": "A cool, sweet summer treat.",
+    // TODO
+    "MelonSeeds_Name": "Melon Seeds",
+    // TODO
+    "MelonSeeds_Description": "Plant these in the summer. Takes 12 days to mature.",
+    // TODO
+    "MermaidsPendant_Name": "Mermaid's Pendant",
+    // TODO
+    "MermaidsPendant_Description": "Give this to the person you want to marry.",
+    // TODO
+    "MidnightCarp_Name": "Midnight Carp",
+    // TODO
+    "MidnightCarp_Description": "This shy fish only feels comfortable at night.",
+    // TODO
+    "MidnightSquid_Name": "Midnight Squid",
+    // TODO
+    "MidnightSquid_Description": "A strange and mysterious denizen of the ocean's twilight depths.",
+    // TODO
+    "Milk_Name": "Milk",
+    // TODO
+    "Milk_Description": "A jug of cow's milk.",
+    // TODO
+    "MinersTreat_Name": "Miner's Treat",
+    // TODO
+    "MinersTreat_Description": "This should keep your energy up.",
+    // TODO
+    "MixedSeeds_Name": "Mixed Seeds",
+    // TODO
+    "MixedSeeds_Description": "There's a little bit of everything here. Plant them and see what grows!",
+    // TODO
+    "MonsterMusk_Name": "Monster Musk",
+    // TODO
+    "MonsterMusk_Description": "Spray this on to draw more monsters out of hiding.",
+    // TODO
+    "Morel_Name": "Morel",
+    // TODO
+    "Morel_Description": "Sought after for its unique nutty flavor.",
+    // TODO
+    "MovieTicket_Name": "Movie Ticket",
+    // TODO
+    "MovieTicket_Description": "Admits one to the movie theater. Giving this to a friend invites them to the movies with you.",
+    // TODO
+    "MsAngler_Name": "Ms. Angler",
+    // TODO
+    "MsAngler_Description": "Uses a bioluminescent dangler to attract prey.",
+    // TODO
+    "Mudstone_Name": "Mudstone",
+    // TODO
+    "Mudstone_Description": "A fine-grained rock made from ancient clay or mud.",
+    // TODO
+    "MummifiedBat_Name": "Mummified Bat",
+    // TODO
+    "MummifiedBat_Description": "The delicate wings have been perfectly preserved.",
+    // TODO
+    "MummifiedFrog_Name": "Mummified Frog",
+    // TODO
+    "MummifiedFrog_Description": "This ancient frog may have lived in the jungle canopy.",
+    // TODO
+    "MuscleRemedy_Name": "Muscle Remedy",
+    // TODO
+    "MuscleRemedy_Description": "When you've pushed your body too hard, drink this to remove 'Exhaustion'.",
+    // TODO
+    "MushroomTreeSeed_Name": "Mushroom Tree Seed",
+    // TODO
+    "MushroomTreeSeed_Description": "Place this on your farm to plant a mushroom tree.",
+    // TODO
+    "Mussel_Name": "Mussel",
+    // TODO
+    "Mussel_Description": "A common bivalve that often lives in clusters.",
+    // TODO
+    "MusselStone_Name": "Mussel Stone",
+    // TODO
+    "MusselStone_Description": "There's mussels in this stone.",
+    // TODO
+    "MutantCarp_Name": "Mutant Carp",
+    // TODO
+    "MutantCarp_Description": "The strange waters of the sewer turned this carp into a monstrosity.",
+    // TODO
+    "MysticStone_Name": "Mystic Stone",
+    // TODO
+    "MysticStone_Description": "Break apart to obtain stone, ores, or geodes.",
+    // TODO
+    "NapalmRing_Name": "Napalm Ring",
+    // TODO
+    "NapalmRing_Description": "When you defeat an enemy, they explode.",
+    // TODO
+    "NautilusFossil_Name": "Nautilus Fossil",
+    // TODO
+    "NautilusFossil_Description": "This must've washed up ages ago from an ancient coral reef. ",
+    // TODO
+    "NautilusShell_Name": "Nautilus Shell",
+    // TODO
+    "NautilusShell_Description": "An ancient shell.",
+    // TODO
+    "Nekoite_Name": "Nekoite",
+    // TODO
+    "Nekoite_Description": "The delicate shards form a tiny pink meadow.",
+    // TODO
+    "Neptunite_Name": "Neptunite",
+    // TODO
+    "Neptunite_Description": "A jet-black crystal that is unusually reflective.",
+    // TODO
+    "OakResin_Name": "Oak Resin",
+    // TODO
+    "OakResin_Description": "A sticky, fragrant substance derived from oak sap.",
+    // TODO
+    "Obsidian_Name": "Obsidian",
+    // TODO
+    "Obsidian_Description": "A volcanic glass that forms when lava cools rapidly.",
+    // TODO
+    "OceanStone_Name": "Ocean Stone",
+    // TODO
+    "OceanStone_Description": "An old legend claims these stones are the mosaics of ancient mermaids.",
+    // TODO
+    "Octopus_Name": "Octopus",
+    // TODO
+    "Octopus_Description": "A mysterious and intelligent creature.",
+    // TODO
+    "Oil_Name": "Oil",
+    // TODO
+    "Oil_Description": "All purpose cooking oil.",
+    // TODO
+    "OilofGarlic_Name": "Oil of Garlic",
+    // TODO
+    "OilofGarlic_Description": "Drink this and weaker monsters will avoid you.",
+    // TODO
+    "Omelet_Name": "Omelet",
+    // TODO
+    "Omelet_Description": "It's super fluffy.",
+    // TODO
+    "OmniGeode_Name": "Omni Geode",
+    // TODO
+    "OmniGeode_Description": "A blacksmith can break this open for you. These geodes contain a wide variety of minerals.",
+    // TODO
+    "OmniGeodeStone_Name": "Omni Geode Stone",
+    // TODO
+    "OmniGeodeStone_Description": "Break apart to obtain omni geodes.",
+    // TODO
+    "Opal_Name": "Opal",
+    // TODO
+    "Opal_Description": "Its internal structure causes it to reflect a rainbow of light.",
+    // TODO
+    "Orange_Name": "Orange",
+    // TODO
+    "Orange_Description": "Juicy, tangy, and bursting with sweet summer aroma.",
+    // TODO
+    "OrangeSapling_Name": "Orange Sapling",
+    // TODO
+    "OrangeSapling_Description": "Takes 28 days to produce a mature Orange tree. Bears fruit in the summer. Only grows if the 8 surrounding \"tiles\" are empty.",
+    // TODO
+    "OrnamentalFan_Name": "Ornamental Fan",
+    // TODO
+    "OrnamentalFan_Description": "This exquisite fan most likely belonged to a noblewoman. Historians believe that the valley was a popular sixth-era vacation spot for the wealthy.",
+    // TODO
+    "OrnateNecklace_Name": "Ornate Necklace",
+    // TODO
+    "OrnateNecklace_Description": "A fancy necklace found in the water outside of the bath house. It's still wet...",
+    // TODO
+    "Orpiment_Name": "Orpiment",
+    // TODO
+    "Orpiment_Description": "Despite its high toxicity, this Mineral is widely used in manufacturing and folk medicine.",
+    // TODO
+    "OstrichEgg_Name": "Ostrich Egg",
+    // TODO
+    "OstrichEgg_Description": "It may be the world's largest egg.",
+    // TODO
+    "Oyster_Name": "Oyster",
+    // TODO
+    "Oyster_Description": "Constantly filters water to find food. In the process, it removes dangerous toxins from the environment.",
+    // TODO
+    "PaleAle_Name": "Pale Ale",
+    // TODO
+    "PaleAle_Description": "Drink in moderation.",
+    // TODO
+    "PaleBroth_Name": "Pale Broth",
+    // TODO
+    "PaleBroth_Description": "A delicate broth with a hint of sulfur.",
+    // TODO
+    "PalmFossil_Name": "Palm Fossil",
+    // TODO
+    "PalmFossil_Description": "Palm Fossils are relatively common, but this happens to be a particularly well-preserved specimen.",
+    // TODO
+    "Pancakes_Name": "Pancakes",
+    // TODO
+    "Pancakes_Description": "A double stack of fluffy, soft pancakes.",
+    // TODO
+    "Parsnip_Name": "Parsnip",
+    // TODO
+    "Parsnip_Description": "A spring tuber closely related to the carrot. It has an earthy taste and is full of nutrients.",
+    // TODO
+    "ParsnipSeeds_Name": "Parsnip Seeds",
+    // TODO
+    "ParsnipSeeds_Description": "Plant these in the spring. Takes 4 days to mature.",
+    // TODO
+    "ParsnipSoup_Name": "Parsnip Soup",
+    // TODO
+    "ParsnipSoup_Description": "It's fresh and hearty.",
+    // TODO
+    "Peach_Name": "Peach",
+    // TODO
+    "Peach_Description": "It's almost fuzzy to the touch.",
+    // TODO
+    "PeachSapling_Name": "Peach Sapling",
+    // TODO
+    "PeachSapling_Description": "Takes 28 days to produce a mature Peach tree. Bears fruit in the summer. Only grows if the 8 surrounding \"tiles\" are empty.",
+    // TODO
+    "Pearl_Name": "Pearl",
+    // TODO
+    "Pearl_Description": "A rare treasure from the sea.",
+    // TODO
+    "PepperPoppers_Name": "Pepper Poppers",
+    // TODO
+    "PepperPoppers_Description": "Spicy breaded peppers filled with cheese.",
+    // TODO
+    "PepperSeeds_Name": "Pepper Seeds",
+    // TODO
+    "PepperSeeds_Description": "Plant these in the summer. Takes 5 days to mature, and continues to produce after first harvest.",
+    // TODO
+    "Perch_Name": "Perch",
+    // TODO
+    "Perch_Description": "A freshwater fish of the winter.",
+    // TODO
+    "Periwinkle_Name": "Periwinkle",
+    // TODO
+    "Periwinkle_Description": "A tiny freshwater snail that lives in a blue shell.",
+    // TODO
+    "PetrifiedSlime_Name": "Petrified Slime",
+    // TODO
+    "PetrifiedSlime_Description": "This little guy may be 100,000 years old.",
+    // TODO
+    "PhoenixRing_Name": "Phoenix Ring",
+    // TODO
+    "PhoenixRing_Description": "Once a day, regain some health after being knocked out in combat.",
+    // TODO
+    "Pickles_Name": "Pickles",
+    // TODO
+    "Pickles_Description": "A jar of your home-made pickles.",
+    // TODO
+    "PierresMissingStocklist_Name": "Pierre's Missing Stocklist",
+    // TODO
+    "PierresMissingStocklist_Description": "Pierre might be interested in this.",
+    // TODO
+    "Pike_Name": "Pike",
+    // TODO
+    "Pike_Description": "A freshwater fish that's difficult to catch.",
+    // TODO
+    "PinaColada_Name": "Piña Colada",
+    // TODO
+    "PinaColada_Description": "Drink in moderation.",
+    // TODO
+    "Pineapple_Name": "Pineapple",
+    // TODO
+    "Pineapple_Description": "A sweet and tangy tropical treat.",
+    // TODO
+    "PineappleSeeds_Name": "Pineapple Seeds",
+    // TODO
+    "PineappleSeeds_Description": "Plant these in warm weather. Takes 14 days to mature, and keeps producing fruit after that.",
+    // TODO
+    "PineCone_Name": "Pine Cone",
+    // TODO
+    "PineCone_Description": "This can be planted to grow a pine tree.",
+    // TODO
+    "PineTar_Name": "Pine Tar",
+    // TODO
+    "PineTar_Description": "A pungent substance derived from pine sap.",
+    // TODO
+    "PinkCake_Name": "Pink Cake",
+    // TODO
+    "PinkCake_Description": "There's little heart candies on top.",
+    // TODO
+    "PiratesLocket_Name": "Pirate's Locket",
+    // TODO
+    "PiratesLocket_Description": "It's an old pirate's keepsake.",
+    // TODO
+    "Pizza_Name": "Pizza",
+    // TODO
+    "Pizza_Description": "It's popular for all the right reasons.",
+    // TODO
+    "PlumPudding_Name": "Plum Pudding",
+    // TODO
+    "PlumPudding_Description": "A traditional holiday treat.",
+    // TODO
+    "Poi_Name": "Poi",
+    // TODO
+    "Poi_Description": "A traditional food with a delicate, sweet flavor when eaten fresh.",
+    // TODO
+    "Pomegranate_Name": "Pomegranate",
+    // TODO
+    "Pomegranate_Description": "Within the fruit are clusters of juicy seeds.",
+    // TODO
+    "PomegranateSapling_Name": "Pomegranate Sapling",
+    // TODO
+    "PomegranateSapling_Description": "Takes 28 days to produce a mature Pomegranate tree. Bears fruit in the fall. Only grows if the 8 surrounding \"tiles\" are empty.",
+    // TODO
+    "Poppy_Name": "Poppy",
+    // TODO
+    "Poppy_Description": "In addition to its colorful flower, the Poppy has culinary and medicinal uses.",
+    // TODO
+    "PoppyseedMuffin_Name": "Poppyseed Muffin",
+    // TODO
+    "PoppyseedMuffin_Description": "It has a soothing effect.",
+    // TODO
+    "PoppySeeds_Name": "Poppy Seeds",
+    // TODO
+    "PoppySeeds_Description": "Plant in summer. Produces a bright red flower in 7 days.",
+    // TODO
+    "Potato_Name": "Potato",
+    // TODO
+    "Potato_Description": "A widely cultivated tuber.",
+    // TODO
+    "PotatoSeeds_Name": "Potato Seeds",
+    // TODO
+    "PotatoSeeds_Description": "Plant these in the spring. Takes 6 days to mature, and has a chance of yielding multiple potatoes at harvest.",
+    // TODO
+    "PrehistoricHandaxe_Name": "Prehistoric Handaxe",
+    // TODO
+    "PrehistoricHandaxe_Description": "One of the earliest tools employed by humans. This \"crude\" tool was created by striking one rock with another to form a sharp edge.",
+    // TODO
+    "PrehistoricRib_Name": "Prehistoric Rib",
+    // TODO
+    "PrehistoricRib_Description": "Little gouge marks on the side suggest that this rib was someone's dinner.",
+    // TODO
+    "PrehistoricScapula_Name": "Prehistoric Scapula",
+    // TODO
+    "PrehistoricScapula_Description": "Commonly known as a \"shoulder blade\"... It's unclear what species it belonged to.",
+    // TODO
+    "PrehistoricSkull_Name": "Prehistoric Skull",
+    // TODO
+    "PrehistoricSkull_Description": "This is definitely a mammalian skull.",
+    // TODO
+    "PrehistoricTibia_Name": "Prehistoric Tibia",
+    // TODO
+    "PrehistoricTibia_Description": "A thick and sturdy leg bone.",
+    // TODO
+    "PrehistoricTool_Name": "Prehistoric Tool",
+    // TODO
+    "PrehistoricTool_Description": "Some kind of gnarly old digging tool.",
+    // TODO
+    "PrehistoricVertebra_Name": "Prehistoric Vertebra",
+    // TODO
+    "PrehistoricVertebra_Description": "A segment of some prehistoric creature's spine.",
+    // TODO
+    "PressureNozzle_Name": "Pressure Nozzle",
+    // TODO
+    "PressureNozzle_Description": "Place on a sprinkler to increase its watering range.",
+    // TODO
+    "PrismaticJelly_Name": "Prismatic Jelly",
+    // TODO
+    "PrismaticJelly_Description": "Harvested from the rare and elusive prismatic slime.",
+    // TODO
+    "PrismaticShard_Name": "Prismatic Shard",
+    // TODO
+    "PrismaticShard_Description": "A very rare and powerful substance with unknown origins.",
+    // TODO
+    "ProtectionRing_Name": "Protection Ring",
+    // TODO
+    "ProtectionRing_Description": "Stay invincible for a little while longer after taking damage.",
+    // TODO
+    "Pufferfish_Name": "Pufferfish",
+    // TODO
+    "Pufferfish_Description": "Inflates when threatened.",
+    // TODO
+    "Pumpkin_Name": "Pumpkin",
+    // TODO
+    "Pumpkin_Description": "A fall favorite, grown for its crunchy seeds and delicately flavored flesh. As a bonus, the hollow shell can be carved into a festive decoration.",
+    // TODO
+    "PumpkinPie_Name": "Pumpkin Pie",
+    // TODO
+    "PumpkinPie_Description": "Silky pumpkin cream in a flaky crust.",
+    // TODO
+    "PumpkinSeeds_Name": "Pumpkin Seeds",
+    // TODO
+    "PumpkinSeeds_Description": "Plant these in the fall. Takes 13 days to mature.",
+    // TODO
+    "PumpkinSoup_Name": "Pumpkin Soup",
+    // TODO
+    "PumpkinSoup_Description": "A seasonal favorite.",
+    // TODO
+    "PurpleMushroom_Name": "Purple Mushroom",
+    // TODO
+    "PurpleMushroom_Description": "A rare mushroom found deep in caves.",
+    // TODO
+    "PurpleSlimeEgg_Name": "Purple Slime Egg",
+    // TODO
+    "PurpleSlimeEgg_Description": "Can be hatched in a slime incubator.",
+    // TODO
+    "Pyrite_Name": "Pyrite",
+    // TODO
+    "Pyrite_Description": "Commonly known as \"Fool's Gold\".",
+    // TODO
+    "QiBean_Name": "Qi Bean",
+    // TODO
+    "QiBean_Description": "Plant these in any season. Water every day to produce a Qi Fruit. Takes 4 days to mature.",
+    // TODO
+    "QiFruit_Name": "Qi Fruit",
+    // TODO
+    "QiFruit_Description": "Mr. Qi has challenged you to ship 500 of these strange melons.",
+    // TODO
+    "QiGem_Name": "Qi Gem",
+    // TODO
+    "QiGem_Description": "A special currency honored by Mr. Qi.",
+    // TODO
+    "QiSeasoning_Name": "Qi Seasoning",
+    // TODO
+    "QiSeasoning_Description": "Just a dash will elevate any dish to extraordinary heights. Automatically applied when cooking.",
+    // TODO
+    "QualityBobber_Name": "Quality Bobber",
+    // TODO
+    "QualityBobber_Description": "Boosts the quality of fish that you catch.",
+    // TODO
+    "QualityFertilizer_Name": "Quality Fertilizer",
+    // TODO
+    "QualityFertilizer_Description": "Improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil.",
+    // TODO
+    "QualityRetainingSoil_Name": "Quality Retaining Soil",
+    // TODO
+    "QualityRetainingSoil_Description": "This soil has a good chance of staying watered overnight. Mix into tilled soil.",
+    // TODO
+    "QualitySprinkler_Name": "Quality Sprinkler",
+    // TODO
+    "QualitySprinkler_Description": "Waters the 8 adjacent tiles every morning.",
+    // TODO
+    "Quartz_Name": "Quartz",
+    // TODO
+    "Quartz_Description": "A clear crystal commonly found in caves and mines.",
+    // TODO
+    "RabbitsFoot_Name": "Rabbit's Foot",
+    // TODO
+    "RabbitsFoot_Description": "Some say it's lucky.",
+    // TODO
+    "RadioactiveBar_Name": "Radioactive Bar",
+    // TODO
+    "RadioactiveBar_Description": "Known by the Zuzu City Safety Commission to cause irreversible bodily harm.",
+    // TODO
+    "RadioactiveCarp_Name": "Radioactive Carp",
+    // TODO
+    "RadioactiveCarp_Description": "A carp that spent one too many years in toxic sludge.",
+    // TODO
+    "RadioactiveOre_Name": "Radioactive Ore",
+    // TODO
+    "RadioactiveOre_Description": "It's glowing with dangerous energy... Can be smelted into bars.",
+    // TODO
+    "RadioactiveStone_Name": "Radioactive Stone",
+    // TODO
+    "RadioactiveStone_Description": "Contains radioactive ore.",
+    // TODO
+    "Radish_Name": "Radish",
+    // TODO
+    "Radish_Description": "A crisp and refreshing root vegetable with hints of pepper when eaten raw.",
+    // TODO
+    "RadishSalad_Name": "Radish Salad",
+    // TODO
+    "RadishSalad_Description": "The radishes are so crisp!",
+    // TODO
+    "RadishSeeds_Name": "Radish Seeds",
+    // TODO
+    "RadishSeeds_Description": "Plant these in the summer. Takes 6 days to mature.",
+    // TODO
+    "RainbowShell_Name": "Rainbow Shell",
+    // TODO
+    "RainbowShell_Description": "It's a very beautiful shell.",
+    // TODO
+    "RainbowTrout_Name": "Rainbow Trout",
+    // TODO
+    "RainbowTrout_Description": "A freshwater trout with colorful markings.",
+    // TODO
+    "RainTotem_Name": "Rain Totem",
+    // TODO
+    "RainTotem_Description": "Activate to greatly increase the chance for rain tomorrow. Consumed on use.",
+    // TODO
+    "RareDisc_Name": "Rare Disc",
+    // TODO
+    "RareDisc_Description": "A heavy black disc studded with peculiar red stones. When you hold it, you're overwhelmed with a feeling of dread.",
+    // TODO
+    "RareSeed_Name": "Rare Seed",
+    // TODO
+    "RareSeed_Description": "Sow in fall. Takes all season to grow.",
+    // TODO
+    "RedCabbage_Name": "Red Cabbage",
+    // TODO
+    "RedCabbage_Description": "Often used in salads and coleslaws. The color can range from purple to blue to green-yellow depending on soil conditions.",
+    // TODO
+    "RedCabbageSeeds_Name": "Red Cabbage Seeds",
+    // TODO
+    "RedCabbageSeeds_Description": "Plant these in the summer. Takes 9 days to mature.",
+    // TODO
+    "RedMullet_Name": "Red Mullet",
+    // TODO
+    "RedMullet_Description": "Long ago these were kept as pets.",
+    // TODO
+    "RedMushroom_Name": "Red Mushroom",
+    // TODO
+    "RedMushroom_Description": "A spotted mushroom sometimes found in caves.",
+    // TODO
+    "RedPlate_Name": "Red Plate",
+    // TODO
+    "RedPlate_Description": "Full of antioxidants.",
+    // TODO
+    "RedSlimeEgg_Name": "Red Slime Egg",
+    // TODO
+    "RedSlimeEgg_Description": "Can be hatched in a slime incubator.",
+    // TODO
+    "RedSnapper_Name": "Red Snapper",
+    // TODO
+    "RedSnapper_Description": "A popular fish with a nice red color.",
+    // TODO
+    "RefinedQuartz_Name": "Refined Quartz",
+    // TODO
+    "RefinedQuartz_Description": "A more pure form of quartz.",
+    // TODO
+    "Rhubarb_Name": "Rhubarb",
+    // TODO
+    "Rhubarb_Description": "The stalks are extremely tart, but make a great dessert when sweetened.",
+    // TODO
+    "RhubarbPie_Name": "Rhubarb Pie",
+    // TODO
+    "RhubarbPie_Description": "Mmm, tangy and sweet!",
+    // TODO
+    "RhubarbSeeds_Name": "Rhubarb Seeds",
+    // TODO
+    "RhubarbSeeds_Description": "Plant these in the spring. Takes 13 days to mature.",
+    // TODO
+    "Rice_Name": "Rice",
+    // TODO
+    "Rice_Description": "A basic grain often served under vegetables.",
+    // TODO
+    "RicePudding_Name": "Rice Pudding",
+    // TODO
+    "RicePudding_Description": "It's creamy, sweet, and fun to eat.",
+    // TODO
+    "RiceShoot_Name": "Rice Shoot",
+    // TODO
+    "RiceShoot_Description": "Plant these in the spring. Takes 8 days to mature. Grows faster if planted near a body of water. Harvest with the scythe.",
+    // TODO
+    "RingofYoba_Name": "Ring of Yoba",
+    // TODO
+    "RingofYoba_Description": "Occasionally shields the wearer from damage.",
+    // TODO
+    "RoastedHazelnuts_Name": "Roasted Hazelnuts",
+    // TODO
+    "RoastedHazelnuts_Description": "The roasting process creates a rich forest flavor.",
+    // TODO
+    "Roe_Name": "Roe",
+    // TODO
+    "Roe_Description": "Fresh fish eggs. These can be aged in a preserves jar to bring out more flavor.",
+    // TODO
+    "RootsPlatter_Name": "Roots Platter",
+    // TODO
+    "RootsPlatter_Description": "This'll get you digging for more.",
+    // TODO
+    "RottenPlant_Name": "Rotten Plant",
+    // TODO
+    "RottenPlant_Description": "Decomposing organic material. It's slimy and unpleasant.",
+    // TODO
+    "Ruby_Name": "Ruby",
+    // TODO
+    "Ruby_Description": "A precious stone that is sought after for its rich color and beautiful luster.",
+    // TODO
+    "RubyRing_Name": "Ruby Ring",
+    // TODO
+    "RubyRing_Description": "Increases attack by 10%.",
+    // TODO
+    "RubyStone_Name": "Ruby Stone",
+    // TODO
+    "RubyStone_Description": "Break apart to obtain rubies.",
+    // TODO
+    "RusticPlankFloor_Name": "Rustic Plank Floor",
+    // TODO
+    "RusticPlankFloor_Description": "Place on the ground to create paths or to decorate your floors.",
+    // TODO
+    "RustyCog_Name": "Rusty Cog",
+    // TODO
+    "RustyCog_Description": "A well preserved cog that must have been part of some ancient machine. This could be dwarven technology.",
+    // TODO
+    "RustySpoon_Name": "Rusty Spoon",
+    // TODO
+    "RustySpoon_Description": "A plain old spoon, probably ten years old. Not very interesting.",
+    // TODO
+    "RustySpur_Name": "Rusty Spur",
+    // TODO
+    "RustySpur_Description": "An old spur that was once attached to a cowboy's boot. People must have been raising animals in this area for many generations.",
+    // TODO
+    "Salad_Name": "Salad",
+    // TODO
+    "Salad_Description": "A healthy garden salad.",
+    // TODO
+    "Salmon_Name": "Salmon",
+    // TODO
+    "Salmon_Description": "Swims upstream to lay its eggs.",
+    // TODO
+    "Salmonberry_Name": "Salmonberry",
+    // TODO
+    "Salmonberry_Description": "A spring-time berry with the flavor of the forest.",
+    // TODO
+    "SalmonDinner_Name": "Salmon Dinner",
+    // TODO
+    "SalmonDinner_Description": "The lemon spritz makes it special.",
+    // TODO
+    "Sandfish_Name": "Sandfish",
+    // TODO
+    "Sandfish_Description": "It tries to hide using camouflage.",
+    // TODO
+    "Sandstone_Name": "Sandstone",
+    // TODO
+    "Sandstone_Description": "A common type of stone with red and brown striations.",
+    // TODO
+    "Sap_Name": "Sap",
+    // TODO
+    "Sap_Description": "A fluid obtained from trees.",
+    // TODO
+    "Sardine_Name": "Sardine",
+    // TODO
+    "Sardine_Description": "A common ocean fish.",
+    // TODO
+    "Sashimi_Name": "Sashimi",
+    // TODO
+    "Sashimi_Description": "Raw fish sliced into thin pieces.",
+    // TODO
+    "SavageRing_Name": "Savage Ring",
+    // TODO
+    "SavageRing_Description": "Gain a short speed boost whenever you slay a monster.",
+    // TODO
+    "ScorpionCarp_Name": "Scorpion Carp",
+    // TODO
+    "ScorpionCarp_Description": "It's like a regular carp but with a sharp stinger.",
+    // TODO
+    "SeaCucumber_Name": "Sea Cucumber",
+    // TODO
+    "SeaCucumber_Description": "A slippery, slimy creature found on the ocean floor.",
+    // TODO
+    "SeafoamPudding_Name": "Seafoam Pudding",
+    // TODO
+    "SeafoamPudding_Description": "This briny pudding will really get you into the maritime mindset!",
+    // TODO
+    "SeaUrchin_Name": "Sea Urchin",
+    // TODO
+    "SeaUrchin_Description": "A slow-moving, spiny creature that some consider a delicacy.",
+    // TODO
+    "Seaweed_Name": "Seaweed",
+    // TODO
+    "Seaweed_Description": "It can be used in cooking.",
+    // TODO
+    "SecretNote_Name": "Secret Note",
+    // TODO
+    "SecretNote_Description": "It's old and crumpled, but if you look closely you can make out the details...",
+    // TODO
+    "Shad_Name": "Shad",
+    // TODO
+    "Shad_Description": "Lives in a school at sea, but returns to the rivers to spawn.",
+    // TODO
+    "Shrimp_Name": "Shrimp",
+    // TODO
+    "Shrimp_Description": "A scavenger that feeds off the ocean floor. Widely prized for its meat.",
+    // TODO
+    "ShrimpCocktail_Name": "Shrimp Cocktail",
+    // TODO
+    "ShrimpCocktail_Description": "A sumptuous appetizer made with freshly-caught shrimp.",
+    // TODO
+    "SkeletalHand_Name": "Skeletal Hand",
+    // TODO
+    "SkeletalHand_Description": "It's a wonder all these ancient little pieces lasted so long.",
+    // TODO
+    "SkeletalTail_Name": "Skeletal Tail",
+    // TODO
+    "SkeletalTail_Description": "It's pretty short for a tail.",
+    // TODO
+    "Slate_Name": "Slate",
+    // TODO
+    "Slate_Description": "It's extremely resistant to water, making it a good roofing material.",
+    // TODO
+    "Slime_Name": "Slime",
+    // TODO
+    "Slime_Description": "A shimmering, gelatinous glob with no smell.",
+    // TODO
+    "SlimeCharmerRing_Name": "Slime Charmer Ring",
+    // TODO
+    "SlimeCharmerRing_Description": "Prevents damage from slimes.",
+    // TODO
+    "SlimeCrate_Name": "Slime Crate",
+    // TODO
+    "SlimeCrate_Description": "Use this to transport a domesticated slime to another location.",
+    // TODO
+    "Slimejack_Name": "Slimejack",
+    // TODO
+    "Slimejack_Description": "He's coated in a very thick layer of slime. He keeps slipping out of your hands!",
+    // TODO
+    "SmallGlowRing_Name": "Small Glow Ring",
+    // TODO
+    "SmallGlowRing_Description": "Emits a small, constant light.",
+    // TODO
+    "SmallMagnetRing_Name": "Small Magnet Ring",
+    // TODO
+    "SmallMagnetRing_Description": "Slightly increases your radius for collecting items.",
+    // TODO
+    "SmallmouthBass_Name": "Smallmouth Bass",
+    // TODO
+    "SmallmouthBass_Description": "A freshwater fish that is very sensitive to pollution.",
+    // TODO
+    "Snail_Name": "Snail",
+    // TODO
+    "Snail_Description": "A wide-ranging mollusc that lives in a spiral shell.",
+    // TODO
+    "SnakeSkull_Name": "Snake Skull",
+    // TODO
+    "SnakeSkull_Description": "A preserved skull that once belonged to a snake.",
+    // TODO
+    "SnakeVertebrae_Name": "Snake Vertebrae",
+    // TODO
+    "SnakeVertebrae_Description": "It appears this serpent may have been extremely flexible.",
+    // TODO
+    "SnowYam_Name": "Snow Yam",
+    // TODO
+    "SnowYam_Description": "This little yam was hiding beneath the snow.",
+    // TODO
+    "SnowyStone_Name": "Snowy Stone",
+    // TODO
+    "SnowyStone_Description": "Break apart to obtain stone, ores, or geodes.",
+    // TODO
+    "Soapstone_Name": "Soapstone",
+    // TODO
+    "Soapstone_Description": "Because of its relatively soft consistency, this stone is very popular for carving.",
+    // TODO
+    "SoggyNewspaper_Name": "Soggy Newspaper",
+    // TODO
+    "SoggyNewspaper_Description": "This is trash.",
+    // TODO
+    "SolarEssence_Name": "Solar Essence",
+    // TODO
+    "SolarEssence_Description": "The glowing face is warm to the touch.",
+    // TODO
+    "SonofCrimsonfish_Name": "Son of Crimsonfish",
+    // TODO
+    "SonofCrimsonfish_Description": "He hatched in the warm summer water, and followed in the footsteps of his father.",
+    // TODO
+    "SoulSapperRing_Name": "Soul Sapper Ring",
+    // TODO
+    "SoulSapperRing_Description": "Gain a little bit of energy every time you slay a monster.",
+    // TODO
+    "Spaghetti_Name": "Spaghetti",
+    // TODO
+    "Spaghetti_Description": "An old favorite.",
+    // TODO
+    "SpangleSeeds_Name": "Spangle Seeds",
+    // TODO
+    "SpangleSeeds_Description": "Plant in summer. Takes 8 days to produce a vibrant tropical flower. Assorted colors.",
+    // TODO
+    "SpeedGro_Name": "Speed-Gro",
+    // TODO
+    "SpeedGro_Description": "Stimulates leaf production. Guaranteed to increase growth rate by at least 10%. Mix into tilled soil.",
+    // TODO
+    "SpiceBerry_Name": "Spice Berry",
+    // TODO
+    "SpiceBerry_Description": "It fills the air with a pungent aroma.",
+    // TODO
+    "SpicyEel_Name": "Spicy Eel",
+    // TODO
+    "SpicyEel_Description": "It's really spicy! Be careful.",
+    // TODO
+    "Spinner_Name": "Spinner",
+    // TODO
+    "Spinner_Description": "The shape makes it spin around in the water. Slightly increases the bite-rate when fishing.",
+    // TODO
+    "SpiritTorch_Name": "Spirit Torch",
+    // TODO
+    "SpiritTorch_Description": "It's unclear where the blue color comes from...",
+    // TODO
+    "SpookFish_Name": "Spook Fish",
+    // TODO
+    "SpookFish_Description": "The huge eyes can detect the faint silhouettes of prey.",
+    // TODO
+    "SpringOnion_Name": "Spring Onion",
+    // TODO
+    "SpringOnion_Description": "These grow wild during the spring.",
+    // TODO
+    "SpringSeeds_Name": "Spring Seeds",
+    // TODO
+    "SpringSeeds_Description": "An assortment of wild spring seeds.",
+    // TODO
+    "Sprinkler_Name": "Sprinkler",
+    // TODO
+    "Sprinkler_Description": "Waters the 4 adjacent tiles every morning.",
+    // TODO
+    "Squid_Name": "Squid",
+    // TODO
+    "Squid_Description": "A deep sea creature that can grow to enormous size.",
+    // TODO
+    "SquidInk_Name": "Squid Ink",
+    // TODO
+    "SquidInk_Description": "Squid use this ink to confuse would-be predators.",
+    // TODO
+    "SquidInkRavioli_Name": "Squid Ink Ravioli",
+    // TODO
+    "SquidInkRavioli_Description": "Temporarily protects from debuffs.",
+    // TODO
+    "StardewValleyRose_Name": "Stardew Valley Rose",
+    // TODO
+    "StardewValleyRose_Description": "A rose that reminds you of the valley. It smells heavenly.",
+    // TODO
+    "Stardrop_Name": "Stardrop",
+    // TODO
+    "Stardrop_Description": "A mysterious fruit that empowers those who eat it. The flavor is like a dream... a powerful personal experience, yet difficult to describe to others.",
+    // TODO
+    "Starfruit_Name": "Starfruit",
+    // TODO
+    "Starfruit_Description": "An extremely juicy fruit that grows in hot, humid weather. Slightly sweet with a sour undertone.",
+    // TODO
+    "StarfruitSeeds_Name": "Starfruit Seeds",
+    // TODO
+    "StarfruitSeeds_Description": "Plant these in the summer. Takes 13 days to mature.",
+    // TODO
+    "StarShards_Name": "Star Shards",
+    // TODO
+    "StarShards_Description": "No one knows how these form. Some scientists claim that the microscopic structure displays unnatural regularity.",
+    // TODO
+    "SteppingStonePath_Name": "Stepping Stone Path",
+    // TODO
+    "SteppingStonePath_Description": "Place on the ground to create paths or to spruce up your floors.",
+    // TODO
+    "Stingray_Name": "Stingray",
+    // TODO
+    "Stingray_Description": "Despite having a toxic stinger, these fish are shy and prefer to avoid humans.",
+    // TODO
+    "StirFry_Name": "Stir Fry",
+    // TODO
+    "StirFry_Description": "Julienned vegetables on a bed of rice.",
+    // TODO
+    "Stone_Name": "Stone",
+    // TODO
+    "Stone_Description": "A common material with many uses in crafting and building.",
+    // TODO
+    "Stone_Node_Name": "Stone",
+    // TODO
+    "Stone_Node_Description": "Break apart to obtain stone, ores, or geodes.",
+    // TODO
+    "Stone_NodeStoneOnly_Name": "Stone",
+    // TODO
+    "Stone_NodeStoneOnly_Description": "Break apart to obtain stone.",
+    // TODO
+    "Stone_NodeWithCoal_Name": "Stone",
+    // TODO
+    "Stone_NodeWithCoal_Description": "Break apart to obtain stone with a chance of coal.",
+    // TODO
+    "StoneBase_Name": "Stone Base",
+    // TODO
+    "StoneBase_Description": "A simple block of stone.",
+    // TODO
+    "StoneFence_Name": "Stone Fence",
+    // TODO
+    "StoneFence_Description": "Lasts longer than a wood fence.",
+    // TODO
+    "Stonefish_Name": "Stonefish",
+    // TODO
+    "Stonefish_Description": "A bizarre fish that's shaped like a brick.",
+    // TODO
+    "StoneFloor_Name": "Stone Floor",
+    // TODO
+    "StoneFloor_Description": "Place on the ground to create paths or to spruce up your floors.",
+    // TODO
+    "StoneWalkwayFloor_Name": "Stone Walkway Floor",
+    // TODO
+    "StoneWalkwayFloor_Description": "Place on the ground to create paths or to decorate your floors.",
+    // TODO
+    "StrangeBun_Name": "Strange Bun",
+    // TODO
+    "StrangeBun_Description": "What's inside?",
+    // TODO
+    "StrangeDoll_Name": "Strange Doll",
+    // TODO
+    "StrangeDoll_Description": "???",
+    // TODO
+    "Strawberry_Name": "Strawberry",
+    // TODO
+    "Strawberry_Description": "A sweet, juicy favorite with an appealing red color.",
+    // TODO
+    "StrawberrySeeds_Name": "Strawberry Seeds",
+    // TODO
+    "StrawberrySeeds_Description": "Plant these in spring. Takes 8 days to mature, and keeps producing strawberries after that.",
+    // TODO
+    "StrawFloor_Name": "Straw Floor",
+    // TODO
+    "StrawFloor_Description": "Place on the ground to create paths or to spruce up your floors.",
+    // TODO
+    "Stuffing_Name": "Stuffing",
+    // TODO
+    "Stuffing_Description": "Ahh... the smell of warm bread and sage.",
+    // TODO
+    "SturdyRing_Name": "Sturdy Ring",
+    // TODO
+    "SturdyRing_Description": "Cuts the duration of negative status effects in half.",
+    // TODO
+    "Sturgeon_Name": "Sturgeon",
+    // TODO
+    "Sturgeon_Description": "An ancient bottom-feeder with a dwindling population. Females can live up to 150 years.",
+    // TODO
+    "Sugar_Name": "Sugar",
+    // TODO
+    "Sugar_Description": "Adds sweetness to pastries and candies. Too much can be unhealthy.",
+    // TODO
+    "SummerSeeds_Name": "Summer Seeds",
+    // TODO
+    "SummerSeeds_Description": "An assortment of wild summer seeds.",
+    // TODO
+    "SummerSpangle_Name": "Summer Spangle",
+    // TODO
+    "SummerSpangle_Description": "A tropical bloom that thrives in the humid summer air. Has a sweet, tangy aroma.",
+    // TODO
+    "Sunfish_Name": "Sunfish",
+    // TODO
+    "Sunfish_Description": "A common river fish.",
+    // TODO
+    "Sunflower_Name": "Sunflower",
+    // TODO
+    "Sunflower_Description": "A common misconception is that the flower turns so it's always facing the sun.",
+    // TODO
+    "SunflowerSeeds_Name": "Sunflower Seeds",
+    // TODO
+    "SunflowerSeeds_Description": "Plant in summer or fall. Takes 8 days to produce a large sunflower. Yields more seeds at harvest.",
+    // TODO
+    "SuperCucumber_Name": "Super Cucumber",
+    // TODO
+    "SuperCucumber_Description": "A rare, purple variety of sea cucumber.",
+    // TODO
+    "SuperMeal_Name": "Super Meal",
+    // TODO
+    "SuperMeal_Description": "It's a really energizing meal.",
+    // TODO
+    "SupplyCrate_Name": "SupplyCrate",
+    // TODO
+    "SupplyCrate_Description": "...",
+    // TODO
+    "SurvivalBurger_Name": "Survival Burger",
+    // TODO
+    "SurvivalBurger_Description": "A convenient snack for the explorer.",
+    // TODO
+    "SweetGemBerry_Name": "Sweet Gem Berry",
+    // TODO
+    "SweetGemBerry_Description": "It's by far the sweetest thing you've ever smelled.",
+    // TODO
+    "SweetPea_Name": "Sweet Pea",
+    // TODO
+    "SweetPea_Description": "A fragrant summer flower.",
+    // TODO
+    "TaroRoot_Name": "Taro Root",
+    // TODO
+    "TaroRoot_Description": "This starchy root is one of the most ancient crops.",
+    // TODO
+    "TaroTuber_Name": "Taro Tuber",
+    // TODO
+    "TaroTuber_Description": "Plant these in warm weather. Takes 10 days to mature. Grows faster if planted near a body of water.",
+    // TODO
+    "TeaLeaves_Name": "Tea Leaves",
+    // TODO
+    "TeaLeaves_Description": "The young leaves of the tea plant. Can be brewed into the popular, energizing beverage.",
+    // TODO
+    "TeaSapling_Name": "Tea Sapling",
+    // TODO
+    "TeaSapling_Description": "Takes 20 days to mature. Produces tea leaves during the final week of each season, except winter. No watering necessary!",
+    // TODO
+    "TeaSet_Name": "Tea Set",
+    // TODO
+    "TeaSet_Description": "Fine porcelain.",
+    // TODO
+    "ThornsRing_Name": "Thorns Ring",
+    // TODO
+    "ThornsRing_Description": "When enemies damage you, they will take damage themselves.",
+    // TODO
+    "ThunderEgg_Name": "Thunder Egg",
+    // TODO
+    "ThunderEgg_Description": "According to legend, angry thunder spirits would throw these stones at one another.",
+    // TODO
+    "Tigerseye_Name": "Tigerseye",
+    // TODO
+    "Tigerseye_Description": "A stripe of shimmering gold gives this gem a warm luster.",
+    // TODO
+    "TigerSlimeEgg_Name": "Tiger Slime Egg",
+    // TODO
+    "TigerSlimeEgg_Description": "Can be hatched in a slime incubator. Use with extreme caution!",
+    // TODO
+    "TigerTrout_Name": "Tiger Trout",
+    // TODO
+    "TigerTrout_Description": "A rare hybrid trout that cannot bear offspring of its own.",
+    // TODO
+    "Tilapia_Name": "Tilapia",
+    // TODO
+    "Tilapia_Description": "A primarily vegetarian fish that prefers warm water.",
+    // TODO
+    "Tomato_Name": "Tomato",
+    // TODO
+    "Tomato_Description": "Rich and slightly tangy, the Tomato has a wide variety of culinary uses.",
+    // TODO
+    "TomatoSeeds_Name": "Tomato Seeds",
+    // TODO
+    "TomatoSeeds_Description": "Plant these in the summer. Takes 11 days to mature, and continues to produce after first harvest.",
+    // TODO
+    "TomKhaSoup_Name": "Tom Kha Soup",
+    // TODO
+    "TomKhaSoup_Description": "These flavors are incredible!",
+    // TODO
+    "Topaz_Name": "Topaz",
+    // TODO
+    "Topaz_Description": "Fairly common but still prized for its beauty.",
+    // TODO
+    "TopazRing_Name": "Topaz Ring",
+    // TODO
+    "TopazRing_Description": "You feel a little bit safer wearing this.",
+    // TODO
+    "TopazStone_Name": "Topaz Stone",
+    // TODO
+    "TopazStone_Description": "Break apart to obtain topaz.",
+    // TODO
+    "Torch_Name": "Torch",
+    // TODO
+    "Torch_Description": "Provides a modest amount of light.",
+    // TODO
+    "Tortilla_Name": "Tortilla",
+    // TODO
+    "Tortilla_Description": "Can be used as a vessel for food or eaten by itself.",
+    // TODO
+    "TrapBobber_Name": "Trap Bobber",
+    // TODO
+    "TrapBobber_Description": "Causes fish to escape slower when you aren't reeling them in.",
+    // TODO
+    "Trash_Name": "Trash",
+    // TODO
+    "Trash_Description": "It's junk.",
+    // TODO
+    "TreasureChest_Name": "Treasure Chest",
+    // TODO
+    "TreasureChest_Description": "Wow, it's loaded with treasure! This is sure to fetch a good price.",
+    // TODO
+    "TreasureHunter_Name": "Treasure Hunter",
+    // TODO
+    "TreasureHunter_Description": "Fish don't escape while collecting treasures. Also slightly increases the chance to find treasures.",
+    // TODO
+    "TreeFertilizer_Name": "Tree Fertilizer",
+    // TODO
+    "TreeFertilizer_Description": "Sprinkle on a wild tree to ensure rapid growth, even in winter. Doesn't work on fruit trees.",
+    // TODO
+    "Trilobite_Name": "Trilobite",
+    // TODO
+    "Trilobite_Description": "A long extinct relative of the crab.",
+    // TODO
+    "TrimmedLuckyPurpleShorts_Name": "Trimmed Lucky Purple Shorts",
+    // TODO
+    "TrimmedLuckyPurpleShorts_Description": "Purple silk shorts trimmed in luxurious gold...",
+    // TODO
+    "TripleShotEspresso_Name": "Triple Shot Espresso",
+    // TODO
+    "TripleShotEspresso_Description": "It's more potent than regular coffee!",
+    // TODO
+    "TropicalCurry_Name": "Tropical Curry",
+    // TODO
+    "TropicalCurry_Description": "An exotic, fragrant curry served in a pineapple bowl.",
+    // TODO
+    "TroutSoup_Name": "Trout Soup",
+    // TODO
+    "TroutSoup_Description": "Pretty salty.",
+    // TODO
+    "Truffle_Name": "Truffle",
+    // TODO
+    "Truffle_Description": "A gourmet type of mushroom with a unique taste.",
+    // TODO
+    "TruffleOil_Name": "Truffle Oil",
+    // TODO
+    "TruffleOil_Description": "A gourmet cooking ingredient.",
+    // TODO
+    "Tulip_Name": "Tulip",
+    // TODO
+    "Tulip_Description": "The most popular spring flower. Has a very faint sweet smell.",
+    // TODO
+    "TulipBulb_Name": "Tulip Bulb",
+    // TODO
+    "TulipBulb_Description": "Plant in spring. Takes 6 days to produce a colorful flower. Assorted colors.",
+    // TODO
+    "Tuna_Name": "Tuna",
+    // TODO
+    "Tuna_Description": "A large fish that lives in the ocean.",
+    // TODO
+    "Twig_Name": "Twig",
+    // TODO
+    "Twig_Description": "A broken branch. Chop with an axe to obtain wood.",
+    // TODO
+    "UnmilledRice_Name": "Unmilled Rice",
+    // TODO
+    "UnmilledRice_Description": "Rice in its rawest form. Run this through a mill to increase the value.",
+    // TODO
+    "VampireRing_Name": "Vampire Ring",
+    // TODO
+    "VampireRing_Description": "Gain a little health every time you slay a monster.",
+    // TODO
+    "VegetableMedley_Name": "Vegetable Medley",
+    // TODO
+    "VegetableMedley_Description": "This is very nutritious.",
+    // TODO
+    "Vinegar_Name": "Vinegar",
+    // TODO
+    "Vinegar_Description": "An aged fermented liquid used in many cooking recipes.",
+    // TODO
+    "VoidEgg_Name": "Void Egg",
+    // TODO
+    "VoidEgg_Description": "A jet-black egg with red flecks. It's warm to the touch.",
+    // TODO
+    "VoidEssence_Name": "Void Essence",
+    // TODO
+    "VoidEssence_Description": "It's quivering with dark energy.",
+    // TODO
+    "VoidGhostPendant_Name": "Void Ghost Pendant",
+    // TODO
+    "VoidGhostPendant_Description": "It's symbolic to the shadow people. As a gift, it signifies the desire to move in together as friends.",
+    // TODO
+    "VoidMayonnaise_Name": "Void Mayonnaise",
+    // TODO
+    "VoidMayonnaise_Description": "A thick, black paste that smells like burnt hair.",
+    // TODO
+    "VoidSalmon_Name": "Void Salmon",
+    // TODO
+    "VoidSalmon_Description": "A salmon, twisted by void energy. The fresh meat is jet black, but rapidly turns pink when exposed to air.",
+    // TODO
+    "Walleye_Name": "Walleye",
+    // TODO
+    "Walleye_Description": "A freshwater fish caught at night.",
+    // TODO
+    "WarMemento_Name": "War Memento",
+    // TODO
+    "WarMemento_Description": "It's a faded photograph of a soldier...",
+    // TODO
+    "WarpTotemBeach_Name": "Warp Totem: Beach",
+    // TODO
+    "WarpTotemBeach_Description": "Warp directly to the beach. Consumed on use.",
+    // TODO
+    "WarpTotemDesert_Name": "Warp Totem: Desert",
+    // TODO
+    "WarpTotemDesert_Description": "Warp directly to Calico Desert. Consumed on use.",
+    // TODO
+    "WarpTotemFarm_Name": "Warp Totem: Farm",
+    // TODO
+    "WarpTotemFarm_Description": "Warp directly to your house. Consumed on use.",
+    // TODO
+    "WarpTotemIsland_Name": "Warp Totem: Island",
+    // TODO
+    "WarpTotemIsland_Description": "Warp directly to Ginger Island. Consumed on use.",
+    // TODO
+    "WarpTotemMountains_Name": "Warp Totem: Mountains",
+    // TODO
+    "WarpTotemMountains_Description": "Warp directly to the mountains. Consumed on use.",
+    // TODO
+    "WarpTotemQisArena_Name": "Warp Totem: Qi's Arena",
+    // TODO
+    "WarpTotemQisArena_Description": "Warp to Qi's Arena. Be prepared for a challenge!.",
+    // TODO
+    "WarriorRing_Name": "Warrior Ring",
+    // TODO
+    "WarriorRing_Description": "Occasionally infuses the wearer with \"warrior energy\" after slaying a monster.",
+    // TODO
+    "WeatheredFloor_Name": "Weathered Floor",
+    // TODO
+    "WeatheredFloor_Description": "Place on the ground to create paths or to spruce up your floors.",
+    // TODO
+    "WeddingRing_Name": "Wedding Ring",
+    // TODO
+    "WeddingRing_Description": "An old Zuzu City tradition... It's used to ask for another farmer's hand in marriage.",
+    // TODO
+    "Weeds_Name": "Weeds",
+    // TODO
+    "Weeds_Description": "A bunch of obnoxious weeds.",
+    // TODO
+    "Weeds_DryBush_Name": "Weeds",
+    // TODO
+    "Weeds_DryBush_Description": "A cluster of dry old bushes. Might contain fibers or mixed seeds.",
+    // TODO
+    "Weeds_Fiber_Ugly_Name": "Weeds",
+    // TODO
+    "Weeds_Fiber_Ugly_Description": "Ugly weeds. Cut to obtain wild seeds.",
+    // TODO
+    "Weeds_FiberOrMixedSeeds_Name": "Weeds",
+    // TODO
+    "Weeds_FiberOrMixedSeeds_Description": "Might contain fibers or mixed seeds.",
+    // TODO
+    "Weeds_FiberOrMixedSeeds_Ugly_Name": "Weeds",
+    // TODO
+    "Weeds_FiberOrMixedSeeds_Ugly_Description": "Ugly weeds. Might contain fibers or mixed seeds.",
+    // TODO
+    "Wheat_Name": "Wheat",
+    // TODO
+    "Wheat_Description": "One of the most widely cultivated grains. Makes a great flour for breads and cakes.",
+    // TODO
+    "WheatFlour_Name": "Wheat Flour",
+    // TODO
+    "WheatFlour_Description": "A common cooking ingredient made from crushed wheat seeds.",
+    // TODO
+    "WheatSeeds_Name": "Wheat Seeds",
+    // TODO
+    "WheatSeeds_Description": "Plant these in the summer or fall. Takes 4 days to mature. Harvest with the scythe.",
+    // TODO
+    "WhiteAlgae_Name": "White Algae",
+    // TODO
+    "WhiteAlgae_Description": "It's super slimy.",
+    // TODO
+    "WhiteEgg_Name": "Egg",
+    // TODO
+    "WhiteEgg_Description": "A regular white chicken egg.",
+    // TODO
+    "WildBait_Name": "Wild Bait",
+    // TODO
+    "WildBait_Description": "A unique recipe from Linus that gives you a chance to catch two fish at once.",
+    // TODO
+    "WildHorseradish_Name": "Wild Horseradish",
+    // TODO
+    "WildHorseradish_Description": "A spicy root found in the spring.",
+    // TODO
+    "WildPlum_Name": "Wild Plum",
+    // TODO
+    "WildPlum_Description": "Tart and juicy with a pungent aroma.",
+    // TODO
+    "WiltedBouquet_Name": "Wilted Bouquet",
+    // TODO
+    "WiltedBouquet_Description": "A gift that shows you want to stop dating someone.",
+    // TODO
+    "Wine_Name": "Wine",
+    // TODO
+    "Wine_Description": "Drink in moderation.",
+    // TODO
+    "WinterRoot_Name": "Winter Root",
+    // TODO
+    "WinterRoot_Description": "A starchy tuber.",
+    // TODO
+    "WinterSeeds_Name": "Winter Seeds",
+    // TODO
+    "WinterSeeds_Description": "An assortment of wild winter seeds.",
+    // TODO
+    "Wood_Name": "Wood",
+    // TODO
+    "Wood_Description": "A sturdy, yet flexible plant material with a wide variety of uses.",
+    // TODO
+    "WoodFence_Name": "Wood Fence",
+    // TODO
+    "WoodFence_Description": "Keeps grass and animals contained!",
+    // TODO
+    "WoodFloor_Name": "Wood Floor",
+    // TODO
+    "WoodFloor_Description": "Place on the ground to create paths or to decorate your floors.",
+    // TODO
+    "WoodPath_Name": "Wood Path",
+    // TODO
+    "WoodPath_Description": "Place on the ground to create paths or to spruce up your floors.",
+    // TODO
+    "Woodskip_Name": "Woodskip",
+    // TODO
+    "Woodskip_Description": "A very sensitive fish that can only live in pools deep in the forest.",
+    // TODO
+    "Wool_Name": "Wool",
+    // TODO
+    "Wool_Description": "Soft, fluffy wool.",
+    // TODO
+    "WrigglingWorm_Name": "Wriggling Worm",
+    // TODO
+    "WrigglingWorm_Description": "It's a wriggling, wet worm.",
+    // TODO
+    "Yam_Name": "Yam",
+    // TODO
+    "Yam_Description": "A starchy tuber with a lot of culinary versatility.",
+    // TODO
+    "YamSeeds_Name": "Yam Seeds",
+    // TODO
+    "YamSeeds_Description": "Plant these in the fall. Takes 10 days to mature.",
+    // TODO
+    "FarAwayStone_Name": "Far Away Stone",
+    // TODO
+    "FarAwayStone_Description": "A stone of unknown origins. Looks like it could be placed into something.",
+    // TODO
+    "CalicoEgg_Name": "Calico Egg",
+    // TODO
+    "CalicoEgg_Description": "A unique egg that can be found during the Desert Festival.",
+    // TODO
+    "MixedFlowerSeeds_Name": "Mixed Flower Seeds",
+    // TODO
+    "MixedFlowerSeeds_Description": "An assortment of flower seeds. Plant them and see what grows!",
+    // TODO
+    "GoldenBobber_Name": "Golden Bobber",
+    // TODO
+    "GoldenBobber_Description": "Willy is looking for this.",
+    // TODO
+    "CalicoEggStone_Name": "Calico Egg Stone",
+    // TODO
+    "CalicoEggStone_Description": "Break apart to obtain Calico Eggs.",
+    // TODO
+    "MysteryBox_Name": "Mystery Box",
+    // TODO
+    "MysteryBox_Description": "A blacksmith can open this for you. Who knows what might be inside?",
+    // TODO
+    "TroutDerbyTag_Name": "Golden Tag",
+    // TODO
+    "TroutDerbyTag_Description": "Turn this in to the Trout Derby booth for a reward.",
+    // TODO
+    "DeluxeBait_Name": "Deluxe Bait",
+    // TODO
+    "DeluxeBait_Description": "Causes fish to bite even faster and increases size of the \"fishing bar\".",
+    // TODO
+    "Moss_Name": "Moss",
+    // TODO
+    "Moss_Description": "A special type of plant that grows in shady areas.",
+    // TODO
+    "MossySeed_Name": "Mossy Seed",
+    // TODO
+    "MossySeed_Description": "This can be planted to grow rare wild trees.",
+    // TODO
+    "GreenRainWeeds_Name": "Green Rain Weeds",
+    // TODO
+    "GreenRainWeeds_Description": "Might contain fibers or mixed seeds.",
+    // TODO
+    "SonarBobber_Name": "Sonar Bobber",
+    // TODO
+    "SonarBobber_Description": "Shows what fish is on the line before it's caught.",
+    // TODO
+    "SpecificBait_Name": "Bait",
+    // TODO
+    "SpecificBait_Description": "Increases your chance to catch {0}.",
+    // TODO
+    "TentKit_Name": "Tent Kit",
+    // TODO
+    "TentKit_Description": "Use this to deploy a one-time-use tent for sleeping. Can only be used outdoors.",
+    // TODO
+    "VolcanoGoldNode_Name": "Gold Stone",
+    // TODO
+    "VolcanoGoldNode_Description": "Break apart to obtain gold ore.",
+    // TODO
+    "MysticTreeSeed_Name": "Mystic Tree Seed",
+    // TODO
+    "MysticTreeSeed_Description": "This can be planted to grow a special tree.",
+    // TODO
+    "MysticSyrup_Name": "Mystic Syrup",
+    // TODO
+    "MysticSyrup_Description": "A very rare syrup that is said to have magic properties.",
+    // TODO
+    "Raisins_Name": "Raisins",
+    // TODO
+    "Raisins_Description": "It's said to be the Junimos' favorite food.",
+    // TODO
+    "DriedFruit_Name": "Dried",
+    // TODO
+    "DriedFruit_Description": "Chewy pieces of dried {0}.",
+    // TODO
+    "DriedMushrooms_Name": "Dried",
+    // TODO
+    "DriedMushrooms_Description": "A package of gourmet mushrooms.",
+    // TODO
+    "StardropTea_Name": "Stardrop Tea",
+    // TODO
+    "StardropTea_Description": "A very special gift that would delight anyone.",
+    // TODO
+    "PrizeTicket_Name": "Prize Ticket",
+    // TODO
+    "PrizeTicket_Description": "Bring this to the prize machine in Lewis' house for a special reward.",
+    // TODO
+    "GoldCoin_Name": "Gold Coin",
+    // TODO
+    "GoldCoin_Description": "1 Gold coin.",
+    // TODO
+    "TreasureTotem_Name": "Treasure Totem",
+    // TODO
+    "TreasureTotem_Description": "Use on diggable terrain to summon a ring of treasure spots.",
+    // TODO
+    "ChallengeBait_Name": "Challenge Bait",
+    // TODO
+    "ChallengeBait_Description": "A \"perfect\" catch yields triple the fish. However, each time a fish escapes the \"fishing bar\", the catch is reduced.",
+    // TODO
+    "CarrotSeeds_Name": "Carrot Seeds",
+    // TODO
+    "CarrotSeeds_Description": "Plant in the spring. Takes 3 days to grow.",
+    // TODO
+    "Carrot_Name": "Carrot",
+    // TODO
+    "Carrot_Description": "A fast-growing, colorful tuber that makes for a great snack.",
+    // TODO
+    "SummerSquashSeeds_Name": "Summer Squash Seeds",
+    // TODO
+    "SummerSquashSeeds_Description": "Plant in the summer. Takes 6 days to grow, and continues to produce after first harvest.",
+    // TODO
+    "SummerSquash_Name": "Summer Squash",
+    // TODO
+    "SummerSquash_Description": "A curved yellow squash that is harvested while immature, and still tender.",
+    // TODO
+    "BroccoliSeeds_Name": "Broccoli Seeds",
+    // TODO
+    "BroccoliSeeds_Description": "Plant in the fall. Takes 8 days to mature, and continues to produce after first harvest.",
+    // TODO
+    "Broccoli_Name": "Broccoli",
+    // TODO
+    "Broccoli_Description": "The flowering head of a broccoli plant. The tiny buds give it a unique texture.",
+    // TODO
+    "PowdermelonSeeds_Name": "Powdermelon Seeds",
+    // TODO
+    "PowdermelonSeeds_Description": "This special melon grows in the winter. Takes 7 days to grow.",
+    // TODO
+    "Powdermelon_Name": "Powdermelon",
+    // TODO
+    "Powdermelon_Description": "Named for the powdery coating that forms on the surface, this melon is crisp and sweet, with a delicate flavor.",
+    // TODO
+    "SmokedFish_Name": "Smoked",
+    // TODO
+    "SmokedFish_Description": "A whole {0}, smoked to perfection.",
+    // TODO
+    "DriedFruit_CollectionsTabName": "Dried Fruit",
+    // TODO
+    "DriedFruit_CollectionsTabDescription": "Chewy pieces of dried fruit.",
+    // TODO
+    "SmokedFish_CollectionsTabName": "Smoked Fish",
+    // TODO
+    "SmokedFish_CollectionsTabDescription": "A whole fish, smoked to perfection.",
+    // TODO
+    "DriedMushrooms_CollectionsTabName": "Dried Mushrooms",
+    // TODO
+    "DriedMushrooms_CollectionsTabDescription": "A package of gourmet mushrooms."
+  }
