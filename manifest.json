@@ -1,0 +1,11 @@
+{
+    "Name": "Stardew Valley Gaelic",
+    "Author": "Sgàthach",
+    "Version": "1.0.0",
+    "Description": "A fan translation of Stardew Valley into Scottish Gaelic.",
+    "UniqueID": "YourName.YourProjectName",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
